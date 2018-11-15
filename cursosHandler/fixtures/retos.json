@@ -1,0 +1,13 @@
+[
+  {
+    "model": "cursosHandler.retos",
+    "pk": 1,
+    "fields": {
+      "titulo_reto": "Desarrollar una idea de negoci",
+      "fecha_inicio": "2018-11-12T22:12:13",
+      "fecha_fin": "2018-11-14T06:00:00",
+      "descripcion": "Desarrollar una idea de negocio que genere impacto a nivel local y nacional",
+      "curso": 20
+    }
+  }
+]

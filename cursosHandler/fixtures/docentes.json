@@ -1,0 +1,362 @@
+[
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 1,
+    "fields": {
+      "id_docente": "1",
+      "nivel_academico": "CN",
+      "nombre": "Carlos Iván Espinosa",
+      "email": "ciespinosa@utpl.edu.ec",
+      "twitter": "@civanespinosa",
+      "resumen": "Mi nombre es Carlos Iván Espinosa soy biólogo de profesión y tengo un Doctorado en Ciencias. Durante los últimos años mi labor como investigador me ha permitido tener contacto con diferentes personas que usan datos; estudiantes, profesionales e investigadores. Esta experiencia de más de 10 años me ha permitido entender las principales limitantes del manejo de datos."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 2,
+    "fields": {
+      "id_docente": "2",
+      "nivel_academico": "CN",
+      "nombre": "Víctor Vaca",
+      "email": "vhvaca@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Coordinador Actual de la Titulación de Medicina de la UTPL. Doctor en Medicina y Cirugía. Especialista en Ginecología y Obstetricia. Diplomado en Docencia en Áreas de la Salud. Docente Investigador a tiempo completo de la UTPL por 10 años (Ginecología, Embriología, Histología) desde el 8 de noviembre del 2002 hasta el 05 de septiembre de 2012, y desde el 5 de enero del 2015 hasta la actualidad. Médico Ginecólogo del Centro Médico Keru-Dund de la ONG Kairos, Rufisque –Senegal (África), durante 3 años. Director académico de la Escuela de Medicina de la Universidad Técnica Particular de Loja (UTPL). Director del departamento de ginecología y obstetricia del Hospital Universitario de la (UTPL). Director del departamento de morfofuncional de la Escuela de Medicina de la UTPL. Participación como conferencista en varios cursos, talleres y jornadas, referentes a la carrera. Dirección de tesis de fin de carrera – pregrado. Participación en diversos, congresos, talleres y jornadas de actualización médica."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 3,
+    "fields": {
+      "id_docente": "3",
+      "nivel_academico": "CN",
+      "nombre": "Chabaco Armijos",
+      "email": "cparmijos@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctorado en: Ecología experimental y geobotánica. Universidad de Pavia-Italia (2013). Máster en: Tecnología para el aprovechamiento de recursos naturales no renovables. Universidad de Pavia-Italia (2006). Diplomado en \"Pedagogías innovadoras\" Universidad Técnica Particular de Loja (UTPL) y Pontificia Universidad Católica (UPC) sede Ibarra-Ecuador. Ingeniero en Industrias Agropecuarias de la UTPL. Docente investigador en la UTPL, 16 años de trabajo en el Departamento de Química y Ciencias exactas, ha dictado las materias de: Biotecnología, Tecnología de productos vegetales y alimentos, Ciencia y tecnología, Conocimiento ancestral de plantas medicinales."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 4,
+    "fields": {
+      "id_docente": "4",
+      "nivel_academico": "CN",
+      "nombre": "José Miguel Guamán",
+      "email": "jmguaman@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Máster en \"Gestión y Auditoría Medioambiental\" Universidad de Cádiz-España. Diplomado en \"Gestión Universitaria\" de la Universidad Técnica Particular de Loja-Ecuador. Experto Universitario en \"Requerimientos de Calidad para la Acreditación de Laboratorios de Análisis Químico\" de la Universidad Internacional de Andalucía España. Ingeniero en Industrias Agropecuarias por la Universidad Técnica Particular de Loja-Ecuador, Perito en Inglés por la Universidad Técnica Particular de Loja. Docente universitario en la UTPL en las asignaturas de: Química General, Análisis Químico, Auditorías ambientales, Evaluación de Impactos Ambientales, etc. Experiencia de 36 años de trabajo en la UTPL."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 5,
+    "fields": {
+      "id_docente": "5",
+      "nivel_academico": "CN",
+      "nombre": "Natacha Fierro",
+      "email": "ndfierro@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Máster en \"Gestión De La Formación: Planificación, Desarrollo y Evaluación de la Formación de Formadores\" Universidad de Sevilla-España, Médico Veterinario Zootecnista, Universidad Nacional de Loja, Experiencia de 6 años como Técnico Extensionista en el desarrollo de proyectos comunitarios, Fiscalizador de Proyectos Agropecuarios ( CAF-IICA- MBS), Actividades relacionadas como Docente Universitario desde el año 2013 ( UTPL) de las asignaturas: Tecnología Social, Desarrollo Comunitario y Gestión Social ."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 6,
+    "fields": {
+      "id_docente": "6",
+      "nivel_academico": "CN",
+      "nombre": "María del Cisne Guamán",
+      "email": "mcguaman@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Máster en \"Agroalimentación\", Universidad de Cádiz - España. Ingeniero Químico, Universidad Técnica Particular de Loja. Estudiante de Doctorado, en la Univesidad de Cádiz en Nanociencia y Tecnología de los Materiales Docente Universitario de las materias: Alimentos y Componentes Funcionales, Bromatología y Nutrición y Educación para una alimentación saludable. Experiencia en extracción y cuantificación de compuestos antioxidantes, tecnología de fluidos supercríticos y atomización."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 7,
+    "fields": {
+      "id_docente": "7",
+      "nivel_academico": "CN",
+      "nombre": "Jacqueline Rojas",
+      "email": "jerojasx@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Gestión y Manejo de Recursos fitogenéticos, otorgado por la Universidad Politécnica de Madrid. Ingeniero Agrónomo, título obtenido en la Universidad Nacional de Loja, docente de las asignaturas de Fitopatología, Entomología y Manejo Integrado de Plagas y Huertos familiares, con once años de experiencia en docencia, en la carrera de Ingeniería Agropecuaria e Investigador del Departamento de Ciencias Biológicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 8,
+    "fields": {
+      "id_docente": "8",
+      "nivel_academico": "CN",
+      "nombre": "Paulina Aguirre",
+      "email": "piaguirre@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 9,
+    "fields": {
+      "id_docente": "9",
+      "nivel_academico": "CN",
+      "nombre": "José Miguel Fernández",
+      "email": "jmfernandez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 10,
+    "fields": {
+      "id_docente": "10",
+      "nivel_academico": "CN",
+      "nombre": "Leticia Jimenez",
+      "email": "lsjimenez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctorado y Diplomado en \"Manejo y Gestión de Recursos Fitogenéticos\" Universidad Politécnica de Madrid - España. Ingeniera Agrónoma de la Universidad Nacional de Loja, Docente universitario de la UTPL, de las materias de Edafología I, Edafología II, Manejo Sustentable del Suelo. Experiencia de 13 años de trabajo en las Titulaciones de Ingeniería Agropecuaria y Gestión Ambiental, docente investigador del Departamento de Ciencias Biológicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 11,
+    "fields": {
+      "id_docente": "11",
+      "nivel_academico": "CN",
+      "nombre": "Juan Manuel García",
+      "email": "mgarcia@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Economía de Recursos Naturales y Desarrollo Sustentable, Universidad Nacional Autónomade México (UNAM), México. Magister en Gestión para el Desarrollo Sustentable, Universidad Católicade Temuco, Chile. Magister en Gestión de la Calidad Educativa, Universidad de Sevilla (Titulo propio,2011). Certificado Internacional en Diseño, Gerencia y Evaluación de Proyectos, Banco Interamericano de Desarrollo BID, Pontificia Universidad Católica de Quito, Ecuador. Economista por la Universidad Técnica Particular de Loja, Ecuador. Docente Universitario a nivel de pre-grado (proyectos, economía de recursos naturales, política económica), en posgrado (gerencia de proyectos, líneas de base, evaluación social y económica de proyectos, administración de recursos naturales), a nivel de posgrado de Ecología y Medio Ambiente y Diseño y Evaluación de Proyectos."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 12,
+    "fields": {
+      "id_docente": "12",
+      "nivel_academico": "CN",
+      "nombre": "Rene Elizalde",
+      "email": "rrelizalde@utpl.edu.ec",
+      "twitter": "@reroes",
+      "resumen": "Máster Universitario en Ingeniería del Software para la Web - Universidad de Alcalá. Ingeniero en Sistemas - Universidad Nacional de Loja. Docente Investigador Sección Tecnologías Avanzadas de la Web."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 13,
+    "fields": {
+      "id_docente": "13",
+      "nivel_academico": "CN",
+      "nombre": "María Beatriz Eguiguren",
+      "email": "mbeguiguren@utpl.edu.ec",
+      "twitter": "@mabeeguiguren",
+      "resumen": "Abogada, Doctora en jurisprudencia, Magíster en Derecho Civil y procesal civil, Candidata a doctora en Ciencias Sociales, Mediadora."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 14,
+    "fields": {
+      "id_docente": "14",
+      "nivel_academico": "CN",
+      "nombre": "Carlos Ortiz",
+      "email": "ccortiz@utpl.edu.ec",
+      "twitter": "@cortizleon",
+      "resumen": "Doctor en Comunicación y Periodismo. Director del MediaLab UTPL. He trabajado en varias producciones audiovisuales nacionales e internacionales."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 15,
+    "fields": {
+      "id_docente": "15",
+      "nivel_academico": "CN",
+      "nombre": "Kruzkaya Ordóñez",
+      "email": "kordonez@utpl.edu.ec",
+      "twitter": "@cortizleon",
+      "resumen": "Magíster en Industrias Creativas. Ha trabajado en la producción de varios documentales y programas de Televisión."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 16,
+    "fields": {
+      "id_docente": "16",
+      "nivel_academico": "CN",
+      "nombre": "Silvia Vaca",
+      "email": "slvaca@utpl.edu.ec",
+      "twitter": "@slvacag",
+      "resumen": "Ph.D. en orientación para la carrera (UNED), Magister en desarrollo de la inteligencia (UTPL), Psicóloga clínica (UDA), Directora del Departamento de Psicología UTPL, lineas de investigación: consumo de sustancias, salud mental, desarrollo cognitivo y altas capacidades."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 17,
+    "fields": {
+      "id_docente": "17",
+      "nivel_academico": "CN",
+      "nombre": "Diana Rivera",
+      "email": "derivera@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctora en Comunicación y periodismo por la Universidad Santiago de Compostela, España. Directora del Área Sociohumanística de la Universidad Técnica Particular de Loja, Ecuador. Línea de investigación periodismo digital. Co-editora internacional de la revista científica Comunicar.\r\n\r\nHa participado en 5 proyectos de investigación financiados: “Historia de la comunicación de Ecuador. Prensa, radio, televisión, fotografía y medios digitales”, “Estudio del estado de la empresa periodística en Ecuador”, “Mapa de la comunicación del Ecuador”, “Análisis de la agenda setting de los medios de comunicación televisivos, impresos y digitales de Ecuador” y Competencias mediáticas audiovisuales. En 2012 fue seleccionada por UNESCO y FELAFACS como profesora para dictar el módulo Periodismo en línea\/multimedia para los países de la Región Andina."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 18,
+    "fields": {
+      "id_docente": "18",
+      "nivel_academico": "CN",
+      "nombre": "Isidro Marín",
+      "email": "imarin1@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Investigador de la Universidad Técnica Particular de Loja (UTPL). Su carrera investigadora está centrada principalmente en los consumos de drogas. Ha publicado diversos artículos científicos en revistas de impacto internacional centrados en consumos de drogas por parte de estudiantes universitarios."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 19,
+    "fields": {
+      "id_docente": "19",
+      "nivel_academico": "CN",
+      "nombre": "Claudia Rodríguez",
+      "email": "cvrodriguezx@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Máster en Investigación de la Comunicación por la Universidad de Navarra. Profesora de tiempo completo en la Universidad Técnica Particular de Loja en la asignatura Opinión Pública. Línea de investigación: comunicación y tecnologías."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 20,
+    "fields": {
+      "id_docente": "20",
+      "nivel_academico": "CN",
+      "nombre": "Mayra González",
+      "email": "mpgonzales@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Mayra Gonzales-Córdova es tutora del módulo de Introducción a la Cultura Digital de la Maestría de Comunicación y Cultura Digital, docente de la asignatura de Periodismo Ciudadano en la Modalidad Presencial y a Distancia de la Titulación de Comunicación Social, Universidad Técnica Particular de Loja (UTPL), desde el 2006. Máster en Investigación en Comunicación y Doctorando en Comunicación por la Universidad de Navarra- España.\r\n\r\nDesde el 2012 al 2014 trabajó en la Dirección de Comunicación. Desde el 2014 hasta la actualidad es Coordinadora de la Sección de Comunicación y Tecnologías. Participación en proyectos institucionales como: “Historia de la comunicación de Ecuador. Prensa, radio, televisión, fotografía y medios digitales”, “La narrativa en los blogs de Ecuador”, “Mapa de la comunicación de Ecuador”, en el programa de investigación “Historia y políticas de comunicación, usos y posibilidades del crowdfunding para la práctica del periodismo” y en el proyecto interno \"Fenómeno de El Niño\"."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 21,
+    "fields": {
+      "id_docente": "21",
+      "nivel_academico": "CN",
+      "nombre": "Gianella Carrión Salinas",
+      "email": "giane.ale.c@gmail.com",
+      "twitter": "",
+      "resumen": "Técnica de Investigación del Departamento de Ciencias de la Comunicación de la Universidad Técnica Particular de Loja, 2016. Licenciada en Comunicación Social por la Universidad Técnica Particular de Loja.\r\n\r\nHa realizado cobertura periodística en medios institucionales de la UTPL: radio, prensa, televisión y cuentas institucionales en redes sociales durante un año y medio. Encargada de las cuentas de Relaciones Públicas de eventos nacionales e internacionales realizados en la UTPL durante seis meses."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 22,
+    "fields": {
+      "id_docente": "22",
+      "nivel_academico": "CN",
+      "nombre": "Andrea Velázquez",
+      "email": "avvelasquez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Profesora de Marketing y Publicidad de la Universidad Técnica Particular de Loja. Doctoranda en Comunicación e Industrias Creativas por la Universidad de Santiago de Compostela - España y Máster Universitario en Comunicación e Industrias Creativas por la Universidad La Misma. Diploma Superior en Gerencia Estratégica de Mercadeo, Diploma Superior en Comunicación Corporativa. Fue Gerente de Marketing de la Universidad Técnica Particular de Loja y Miembro de los equipos de Calidad de las titulaciones de Comunicación Social y Relaciones Públicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 23,
+    "fields": {
+      "id_docente": "23",
+      "nivel_academico": "CN",
+      "nombre": "Mónica Guerra",
+      "email": "maguerra36@utpl.edu.ec",
+      "twitter": "@monkymiau",
+      "resumen": "Ph.D. en Biología con especialización Ecología, Evolución y Comportamiento de la Universidad de Texas en Austin (USA). Docente-investigadora en la Sección de Biología y Genética de la UTPL desde Abril de 2017. Líneas de investigación incluyen anfibios, bioacústica y evolución del comportamiento animal, para lo cual incorpora experimentos de campo con técnicas de genética molecular."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 24,
+    "fields": {
+      "id_docente": "24",
+      "nivel_academico": "CN",
+      "nombre": "Paúl Lojan",
+      "email": "pdlojan@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Ciencias Agronómicas e Ingeniería Biológica, otorgado por la Universidad Católica de Lovaina de Bélgica. Ingeniero Agropecuario, título obtenido en la Universidad Técnica Particular de Loja, docente de las asignaturas de Biología General, Biología Celular y Microbiología. Experiencia de 6 años en el departamento de Ciencias Biológicas de la UTPL en el grupo de investigación: Microbial Systems Ecology and Evolution. Participación en proyectos de investigación nacionales e internacionales. Experiencia en investigación referente a la formulación y aplicación de microorganismos en la agricultura. Ha realizado varias publicaciones sobre el tema."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 25,
+    "fields": {
+      "id_docente": "25",
+      "nivel_academico": "CN",
+      "nombre": "Diana Espinoza",
+      "email": "dlespinoza@utpl.edu.ec",
+      "twitter": "@dianaespinoza",
+      "resumen": "Estudiante de Doctorado en Administración y Dirección de Empresas de la Universidad Politécnica de Valencia - España. Máster en \"Economía Agroalimentaria y del Medio Ambiente\" - Universidad Politécnica de Valencia - España. Diplomado en \"Gerencia Estratégica de Mercadeo\" - Universidad Técnica Particular de Loja. Economista por la UTPL. Experiencia profesional y académica de 13 años, con conocimiento en las áreas de emprendimiento y gestión empresarial. Experiencia en asesoría y capacitación a emprendedores."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 26,
+    "fields": {
+      "id_docente": "26",
+      "nivel_academico": "CN",
+      "nombre": "Glenda Ponce",
+      "email": "geponce@utpl.edu.ec",
+      "twitter": "@gponce",
+      "resumen": "Máster en \"Economía Agroalimentaria y del Medio Ambiente\" - Universidad Politécnica de Valencia - España. DEA en \"Gestión y Políticas de Comercio Internacional\" - Universidad Politécnica de Valencia. Magíster en Evaluación, Dirección y Gestión de la Calidad Universitaria por la Universidad de Sevilla – España. Ingeniera en Administración de Empresas por la Universidad Técnica Particular de Loja. Actualmente cursando el doctorado en Administración y Dirección de Empresas de la UPV. Docente de la UTPL en las asignaturas de Planificación y Desarrollo Organizacional, Valoración de Empresas, Canales de Distribución, Gestión de Negocios, Emprendimiento, en las carreras de Administración de Empresas y Contabilidad y Auditoria desde el 2005. Once años de experiencia en diversos departamentos de la UTPL incluído el departamento de Ciencias Empresariles. Las áreas de interés en la investigación corresponden a teoría de organizaciones, capacidad de aprendizaje de las organizaciones para la generación de valor."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 27,
+    "fields": {
+      "id_docente": "27",
+      "nivel_academico": "CN",
+      "nombre": "Freddy Gómez",
+      "email": "frgomez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Economista y Magister en Gestión y Desarrollo Social, docente del Departamento de Economía, Sección Teoría Económica de la Universidad Técnica Particular de Loja en la titulación de Economía y Maestría de Gestión de Proyectos. Parte del equipo de investigación Crecimiento Económico."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 28,
+    "fields": {
+      "id_docente": "28",
+      "nivel_academico": "CN",
+      "nombre": "Francisco Ochoa",
+      "email": "ofochoa@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 29,
+    "fields": {
+      "id_docente": "29",
+      "nivel_academico": "CN",
+      "nombre": "Paulo Vélez León",
+      "email": "pevelez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Soy Profesor en la Sección de Filosofía y Teología de la Universidad Técnica de Loja. Mi trabajo de investigación se centra principalmente en los fundamentos e historia de la metafísica, especialmente la contribución hispano medioeval a ella; así como, en los fundamentos de la teoría del conocimiento y la estética, en particular de la ontología del mundo del arte. Mi investigación en la UTPL explora sobre los fundamentos de la ontología y sus implicaciones en la estructura ontológica del mundo del arte."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 30,
+    "fields": {
+      "id_docente": "30",
+      "nivel_academico": "CN",
+      "nombre": "Juan Carlos Torres",
+      "email": "jctorres@utpl.edu.ec",
+      "twitter": "@jctorres72",
+      "resumen": "Dr. en Sociedad de la Información y del Conocimiento, profesor de estadística básica y avanzada en la Universidad Técnica Particular de Loja, los campos de estudio son la aplicación de minería de datos y ciencia de datos a la transformación de la sociedad motivada por el uso de la tecnología."
+    }
+  }
+]

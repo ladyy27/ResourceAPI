@@ -1,0 +1,839 @@
+[
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 1,
+    "fields": {
+      "id_competencia": "1",
+      "curso": "1",
+      "competencia": "Generar conocimientos y principalmente aptitudes de manejo y exploración de datos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 2,
+    "fields": {
+      "id_competencia": "2",
+      "curso": "1",
+      "competencia": "Adquirir conocimientos prácticos sobre el uso de herramientas en Excel que faciliten el procesamiento de datos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 3,
+    "fields": {
+      "id_competencia": "3",
+      "curso": "2",
+      "competencia": "Favorecer el conocimiento de la sexualidad, ofreciendo información necesaria sobre la función, dimensión anatómica, fisiológica, psicológica y social del desarrollo de la sexualidad. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 4,
+    "fields": {
+      "id_competencia": "4",
+      "curso": "2",
+      "competencia": "Reflexionar sobre las relaciones afectivas desde el significado de amor, pareja y placer."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 5,
+    "fields": {
+      "id_competencia": "5",
+      "curso": "2",
+      "competencia": "Educar para la sexualidad en el respeto de la dignidad inherente a todo ser humano, que se manifiesta en la promoción de sus derechos humanos, sexuales y reproductivos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 6,
+    "fields": {
+      "id_competencia": "6",
+      "curso": "2",
+      "competencia": "Conocer los principales métodos de planificación familiar, sus usos, contraindicaciones, efectos adversos y la perspectiva ética de su funcionamiento."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 7,
+    "fields": {
+      "id_competencia": "7",
+      "curso": "3",
+      "competencia": "Diferencia las principales características de la uva usada , el proceso de producción y los diferentes tipos de vino."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 8,
+    "fields": {
+      "id_competencia": "8",
+      "curso": "3",
+      "competencia": "Conoce el proceso general de elaboración de vinos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 9,
+    "fields": {
+      "id_competencia": "9",
+      "curso": "3",
+      "competencia": "Conoce las principales operaciones para elaborar un vino."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 10,
+    "fields": {
+      "id_competencia": "10",
+      "curso": "3",
+      "competencia": "Conoce los principales insumos y aditivos usados en el proceso de elaboración de cerveza."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 11,
+    "fields": {
+      "id_competencia": "11",
+      "curso": "3",
+      "competencia": "Conoce los fundamentos más importantes para estabilizar una cerveza."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 12,
+    "fields": {
+      "id_competencia": "12",
+      "curso": "3",
+      "competencia": "Conoce y aplica el proceso de elaboración de cerveza a nivel casero"
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 13,
+    "fields": {
+      "id_competencia": "13",
+      "curso": "3",
+      "competencia": "El participante al finalizar el curso comprende y aplica los procesos y operaciones básicas para la elaboración de bebidas fermentadas."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 14,
+    "fields": {
+      "id_competencia": "14",
+      "curso": "4",
+      "competencia": "Orientación a la mejora continua."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 15,
+    "fields": {
+      "id_competencia": "15",
+      "curso": "4",
+      "competencia": "Organización y planificación del tiempo."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 16,
+    "fields": {
+      "id_competencia": "16",
+      "curso": "4",
+      "competencia": "Pensamiento crítico y reflexivo."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 17,
+    "fields": {
+      "id_competencia": "17",
+      "curso": "5",
+      "competencia": "Reconoce los tipos de contaminantes atmosféricos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 18,
+    "fields": {
+      "id_competencia": "18",
+      "curso": "5",
+      "competencia": "Distingue los contaminantes primarios y secundarios."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 19,
+    "fields": {
+      "id_competencia": "19",
+      "curso": "6",
+      "competencia": "Reconocer los fundamentos del Desarrollo Comunitario."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 20,
+    "fields": {
+      "id_competencia": "20",
+      "curso": "6",
+      "competencia": "Diseñar las herramientas necesarias para aplicarlas y obtener información en comunidades rurales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 21,
+    "fields": {
+      "id_competencia": "21",
+      "curso": "6",
+      "competencia": "Plantear propuestas de Desarrollo Comunitario."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 22,
+    "fields": {
+      "id_competencia": "22",
+      "curso": "7",
+      "competencia": "Conoce los principios e indicadores de la Seguridad Alimentaria y Nutricional."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 23,
+    "fields": {
+      "id_competencia": "23",
+      "curso": "7",
+      "competencia": "Asocia los diferentes alimentos con su aporte nutricional, componentes beneficiosos y características principales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 24,
+    "fields": {
+      "id_competencia": "24",
+      "curso": "7",
+      "competencia": "Aplica los principios básicos de la inocuidad en la elección y preparación de alimento."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 25,
+    "fields": {
+      "id_competencia": "25",
+      "curso": "7",
+      "competencia": "Conoce las potencialidades nutricionales de los alimentos en la dieta."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 26,
+    "fields": {
+      "id_competencia": "26",
+      "curso": "7",
+      "competencia": "Interpreta las etiquetas de los alimentos procesados."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 27,
+    "fields": {
+      "id_competencia": "27",
+      "curso": "8",
+      "competencia": "Conoce la contribución de la agricultura urbana al mejoramiento de la economía y la seguridad alimentaria. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 28,
+    "fields": {
+      "id_competencia": "28",
+      "curso": "8",
+      "competencia": "Describe generalidades de la horticultura y los diferentes tipos de huertos que se pueda utilizar. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 29,
+    "fields": {
+      "id_competencia": "29",
+      "curso": "8",
+      "competencia": "Identifica los elementos básicos que constituyen un sustrato orgánico y la importancia de los mismos para la producción de las hortalizas."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 30,
+    "fields": {
+      "id_competencia": "30",
+      "curso": "8",
+      "competencia": "Comprende los principios del manejo de la siembra de las hortalizas."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 31,
+    "fields": {
+      "id_competencia": "31",
+      "curso": "8",
+      "competencia": "Identifica las diferentes técnicas para el manejo eficiente del cultivo de las plantas de hortalizas."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 32,
+    "fields": {
+      "id_competencia": "32",
+      "curso": "8",
+      "competencia": "Identifica la importancia de alternar y asociar los cultivos que establecen y sus beneficios para la composición del agroecosistema. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 33,
+    "fields": {
+      "id_competencia": "33",
+      "curso": "9",
+      "competencia": "Entender los conceptos básicos y principios de la biorremediación."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 34,
+    "fields": {
+      "id_competencia": "34",
+      "curso": "9",
+      "competencia": "Conocer las características de las matrices principales suceptibles a biorremediación: suelo y agua."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 35,
+    "fields": {
+      "id_competencia": "35",
+      "curso": "9",
+      "competencia": "Identificar los contaminantes susceptibles de biorremediación, sus características y sus fuentes."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 36,
+    "fields": {
+      "id_competencia": "36",
+      "curso": "9",
+      "competencia": "Reconocer las diferentes técnicas de biorremediación in situ y ex situ."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 37,
+    "fields": {
+      "id_competencia": "37",
+      "curso": "9",
+      "competencia": "Seleccionar las técnicas de biorremediación adecuada para cada contaminantes y matriz."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 38,
+    "fields": {
+      "id_competencia": "38",
+      "curso": "9",
+      "competencia": "Conocer las perspectivas futuras de mejoras a procesos de biorremediación."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 39,
+    "fields": {
+      "id_competencia": "39",
+      "curso": "10",
+      "competencia": "Orientación a la mejora continua "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 40,
+    "fields": {
+      "id_competencia": "40",
+      "curso": "10",
+      "competencia": "Organización y planificación de tiempos y recursos "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 41,
+    "fields": {
+      "id_competencia": "41",
+      "curso": "10",
+      "competencia": "Pensamiento crítico y reflexivo "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 42,
+    "fields": {
+      "id_competencia": "42",
+      "curso": "11",
+      "competencia": "Identificar los fundamentos para el manejo sostenible del suelo. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 43,
+    "fields": {
+      "id_competencia": "43",
+      "curso": "11",
+      "competencia": "Relacionar el efecto de la vegetación sobre las propiedades edáficas y viceversa. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 44,
+    "fields": {
+      "id_competencia": "44",
+      "curso": "11",
+      "competencia": "Identificar las principales causas, efectos y posibles soluciones del cambio climático, desertificación y erosión de suelo."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 45,
+    "fields": {
+      "id_competencia": "45",
+      "curso": "12",
+      "competencia": "Administrar y evaluar sistemas de manejo y protección para fomentar el uso sostenible de los recursos naturales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 46,
+    "fields": {
+      "id_competencia": "46",
+      "curso": "12",
+      "competencia": "Analizar e integrar datos ambientales para desarrollar sistemas de manejo de los recursos naturales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 47,
+    "fields": {
+      "id_competencia": "47",
+      "curso": "12",
+      "competencia": "Describir la problemática ambiental global y local como fundamento para proponer alternativas de manejo y conservación de los recursos ambientales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 48,
+    "fields": {
+      "id_competencia": "48",
+      "curso": "13",
+      "competencia": "Aplica principios y conceptos de fundamentos de programación en la resolución de problemas computacionales. "
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 49,
+    "fields": {
+      "id_competencia": "49",
+      "curso": "13",
+      "competencia": "Determina los tipos de datos que mejor se ajusten para la resolución de problemas mediante algoritmos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 50,
+    "fields": {
+      "id_competencia": "50",
+      "curso": "13",
+      "competencia": "Reconoce las fases del ciclo de desarrollo de software que se deben aplicar en el construcción de un programa."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 51,
+    "fields": {
+      "id_competencia": "51",
+      "curso": "13",
+      "competencia": "Elabora algoritmos que permitan la resolución de problemas utilizando estructuras de selección y control."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 52,
+    "fields": {
+      "id_competencia": "52",
+      "curso": "13",
+      "competencia": "Utilizar pruebas de escritorio que permitan validar la ejecución de un algoritmo."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 53,
+    "fields": {
+      "id_competencia": "53",
+      "curso": "13",
+      "competencia": "Conoce la simbología de los diagramas de flujo que permitan ser empleados en la resolución de problemas."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 54,
+    "fields": {
+      "id_competencia": "54",
+      "curso": "13",
+      "competencia": "Transforma las soluciones generadas mediante algoritmos y miniespecificaciones a un lenguaje de programación de alto nivel."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 55,
+    "fields": {
+      "id_competencia": "55",
+      "curso": "14",
+      "competencia": "Comprende el conflicto y su dinámica."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 56,
+    "fields": {
+      "id_competencia": "56",
+      "curso": "14",
+      "competencia": "Identifica el protocolo y tratamiento de la gestión del conflicto."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 57,
+    "fields": {
+      "id_competencia": "57",
+      "curso": "14",
+      "competencia": "Identifica los métodos alternativos de solución de conflictos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 58,
+    "fields": {
+      "id_competencia": "58",
+      "curso": "15",
+      "competencia": "Conoce elementos de la producción audiovisual."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 59,
+    "fields": {
+      "id_competencia": "59",
+      "curso": "15",
+      "competencia": "Conoce el lenguaje audiovisual."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 60,
+    "fields": {
+      "id_competencia": "60",
+      "curso": "15",
+      "competencia": "Desarrolla habilidades para construir historias en formato audiovisual."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 61,
+    "fields": {
+      "id_competencia": "61",
+      "curso": "16",
+      "competencia": "El alumno comprenderá los conceptos básicos relacionados con el consumo de sustancias tanto desde la perspectiva de las sustancias como del consumidor."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 62,
+    "fields": {
+      "id_competencia": "62",
+      "curso": "16",
+      "competencia": "El alumno diferenciará los procesos farmacodinámicos y farmacocinéticos de las principales sustancias (drogas)."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 63,
+    "fields": {
+      "id_competencia": "63",
+      "curso": "16",
+      "competencia": "El alumno analizará los factores protectores y de riesgo asociados al consumo de sustancias."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 64,
+    "fields": {
+      "id_competencia": "64",
+      "curso": "16",
+      "competencia": "El alumno será capaz de auto identificar sus recursos personales que le protegerán hacia el consumo de sustancias."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 65,
+    "fields": {
+      "id_competencia": "65",
+      "curso": "16",
+      "competencia": "El estudiante comprenderá los principales instrumentos para identificación del nivel de consumo de sustancias."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 66,
+    "fields": {
+      "id_competencia": "66",
+      "curso": "16",
+      "competencia": "El estudiante conocerá la normativa nacional que se aplica en relación al consumo de sustancias."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 67,
+    "fields": {
+      "id_competencia": "67",
+      "curso": "17",
+      "competencia": "Conoce las dimensiones de las competencias mediáticas y las TIC."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 68,
+    "fields": {
+      "id_competencia": "68",
+      "curso": "17",
+      "competencia": "Aplica las herramientas digitales en diferentes contextos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 69,
+    "fields": {
+      "id_competencia": "69",
+      "curso": "17",
+      "competencia": "Comprende el funcionamiento de las principales redes sociales digitales."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 70,
+    "fields": {
+      "id_competencia": "70",
+      "curso": "18",
+      "competencia": "Conocer y entender la teoría evolutiva."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 71,
+    "fields": {
+      "id_competencia": "71",
+      "curso": "18",
+      "competencia": "Explicar los mecanismos micros y macro evolutivos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 72,
+    "fields": {
+      "id_competencia": "72",
+      "curso": "18",
+      "competencia": "Justificar la existencia de los seres vivos como resultado de un proceso evolutivo."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 73,
+    "fields": {
+      "id_competencia": "73",
+      "curso": "18",
+      "competencia": "Avalar la evolución como el concepto unificador de la Biología."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 74,
+    "fields": {
+      "id_competencia": "74",
+      "curso": "19",
+      "competencia": "Conoce el campo de estudio de la Microbiología, sus inicios y la clasificación de los principales grupos de microorganismos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 75,
+    "fields": {
+      "id_competencia": "75",
+      "curso": "19",
+      "competencia": "Analiza algunas técnicas básicas del cultivo de microorganismos a nivel de laboratorio y las normas de seguridad."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 76,
+    "fields": {
+      "id_competencia": "76",
+      "curso": "19",
+      "competencia": "Comprende el campo de estudio de la Microbiología Ambiental."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 77,
+    "fields": {
+      "id_competencia": "77",
+      "curso": "19",
+      "competencia": "Analiza algunos proyectos desarrollados o que se encuentra en curso sobre las posibles aplicaciones de los microorganismos en el campo ambiental."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 78,
+    "fields": {
+      "id_competencia": "78",
+      "curso": "19",
+      "competencia": "Comprende el campo de estudio de la Microbiología Agrícola"
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 79,
+    "fields": {
+      "id_competencia": "79",
+      "curso": "19",
+      "competencia": "Analiza algunos proyectos desarrollados o que se encuentra en curso sobre las posibles aplicaciones de los microorganismos en el campo agrícola."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 80,
+    "fields": {
+      "id_competencia": "80",
+      "curso": "20",
+      "competencia": "Desarrolla la actitud y capacidad emprendedora como agente de cambio."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 81,
+    "fields": {
+      "id_competencia": "81",
+      "curso": "20",
+      "competencia": "Identifica nuevas oportunidades con base en un diagnóstico de su entorno."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 82,
+    "fields": {
+      "id_competencia": "82",
+      "curso": "20",
+      "competencia": "Propone ideas innovadoras que responden a necesidades y desafíos de orden social."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 83,
+    "fields": {
+      "id_competencia": "83",
+      "curso": "21",
+      "competencia": "Conocer la realidad de nuestro entorno y como interactúan los agentes económicos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 84,
+    "fields": {
+      "id_competencia": "84",
+      "curso": "21",
+      "competencia": "Comprender la dinámica de mercado: comportamiento del consumidor y del productor en los diferentes bienes y servicios."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 85,
+    "fields": {
+      "id_competencia": "85",
+      "curso": "21",
+      "competencia": "Analizar la economía familiar asignando los recursos de una manera eficiente."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 86,
+    "fields": {
+      "id_competencia": "86",
+      "curso": "22",
+      "competencia": "Capacidad para la obtención y tratamiento de la información."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 87,
+    "fields": {
+      "id_competencia": "87",
+      "curso": "22",
+      "competencia": "Capacidad para describir y sintetizar la información a través de gráficos e indicadores estadísticos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 88,
+    "fields": {
+      "id_competencia": "88",
+      "curso": "22",
+      "competencia": "Capacidad para analizar, e interpretar resultados par una adecuada toma de decisiones."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 89,
+    "fields": {
+      "id_competencia": "89",
+      "curso": "23",
+      "competencia": "Identificar y comprender, desde el humanismo de Cristo, los principales problemas antropológicos que afectan el desarrollo de la existencia humana y de que la propuesta de Cristo al entendimiento y vivencia de estos problemas, le aporta al hombre su máxima dignidad: el hombre ha sido creado a imagen"
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 90,
+    "fields": {
+      "id_competencia": "90",
+      "curso": "23",
+      "competencia": "Entender, desde el humanismo de Cristo, que la verdad revelada orienta la formación de la persona humana en sus diversos ámbitos, tales como el familiar, el educativo, el académico y el social."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 91,
+    "fields": {
+      "id_competencia": "91",
+      "curso": "23",
+      "competencia": "Comprender el modelo genético presentado por Fernando Rielo y ser capaz de percibir la novedad que representa."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 92,
+    "fields": {
+      "id_competencia": "92",
+      "curso": "24",
+      "competencia": "Describir conjuntos de datos."
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 93,
+    "fields": {
+      "id_competencia": "93",
+      "curso": "24",
+      "competencia": "Realizar inferencias sobre conjuntos de datos."
+    }
+  }
+]
