@@ -1,0 +1,7 @@
+Django==2.1.3
+djangorestframework==3.9.0
+mysqlclient==1.3.13
+pip==18.1
+pytz==2018.7
+setuptools==40.6.2
+wheel==0.32.2

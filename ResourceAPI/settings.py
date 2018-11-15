@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'RESTAPI.apps.RestapiConfig',
     'rest_framework',
-    'RESTAPI.app.CursoshandlerConfig'
+    'cursosHandler.apps.CursoshandlerConfig',
 ]
 
 MIDDLEWARE = [
