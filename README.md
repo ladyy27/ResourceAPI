@@ -7,3 +7,8 @@ This app supports the connection to multiple databases. Every database configura
 # Actual supported API's
 * OpenCampus
 * Curricula
+
+# TODO
+* Añadir los datos de carga para curricula
+* Probar la migracion
+* Crear guia de despliegue
