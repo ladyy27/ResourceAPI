@@ -1,0 +1,2891 @@
+[
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 1,
+    "fields": {
+      "nombre": "Carlos Iv\u00e1n Espinosa",
+      "nivel_academico": "CN",
+      "email": "ciespinosa@utpl.edu.ec",
+      "twitter": "@civanespinosa",
+      "resumen": "Mi nombre es Carlos Iv\u00e1n Espinosa soy bi\u00f3logo de profesi\u00f3n y tengo un Doctorado en Ciencias. Durante los \u00faltimos a\u00f1os mi labor como investigador me ha permitido tener contacto con diferentes personas que usan datos; estudiantes, profesionales e investigadores. Esta experiencia de m\u00e1s de 10 a\u00f1os me ha permitido entender las principales limitantes del manejo de datos."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 2,
+    "fields": {
+      "nombre": "V\u00edctor Vaca",
+      "nivel_academico": "CN",
+      "email": "vhvaca@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Coordinador Actual de la Titulaci\u00f3n de Medicina de la UTPL. Doctor en Medicina y Cirug\u00eda. Especialista en Ginecolog\u00eda y Obstetricia. Diplomado en Docencia en \u00c1reas de la Salud. Docente Investigador a tiempo completo de la UTPL por 10 a\u00f1os (Ginecolog\u00eda, Embriolog\u00eda, Histolog\u00eda) desde el 8 de noviembre del 2002 hasta el 05 de septiembre de 2012, y desde el 5 de enero del 2015 hasta la actualidad. M\u00e9dico Ginec\u00f3logo del Centro M\u00e9dico Keru-Dund de la ONG Kairos, Rufisque \u2013Senegal (\u00c1frica), durante 3 a\u00f1os. Director acad\u00e9mico de la Escuela de Medicina de la Universidad T\u00e9cnica Particular de Loja (UTPL). Director del departamento de ginecolog\u00eda y obstetricia del Hospital Universitario de la (UTPL). Director del departamento de morfofuncional de la Escuela de Medicina de la UTPL. Participaci\u00f3n como conferencista en varios cursos, talleres y jornadas, referentes a la carrera. Direcci\u00f3n de tesis de fin de carrera \u2013 pregrado. Participaci\u00f3n en diversos, congresos, talleres y jornadas de actualizaci\u00f3n m\u00e9dica."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 3,
+    "fields": {
+      "nombre": "Chabaco Armijos",
+      "nivel_academico": "CN",
+      "email": "cparmijos@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctorado en: Ecolog\u00eda experimental y geobot\u00e1nica. Universidad de Pavia-Italia (2013). M\u00e1ster en: Tecnolog\u00eda para el aprovechamiento de recursos naturales no renovables. Universidad de Pavia-Italia (2006). Diplomado en \"Pedagog\u00edas innovadoras\" Universidad T\u00e9cnica Particular de Loja (UTPL) y Pontificia Universidad Cat\u00f3lica (UPC) sede Ibarra-Ecuador. Ingeniero en Industrias Agropecuarias de la UTPL. Docente investigador en la UTPL, 16 a\u00f1os de trabajo en el Departamento de Qu\u00edmica y Ciencias exactas, ha dictado las materias de: Biotecnolog\u00eda, Tecnolog\u00eda de productos vegetales y alimentos, Ciencia y tecnolog\u00eda, Conocimiento ancestral de plantas medicinales."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 4,
+    "fields": {
+      "nombre": "Jos\u00e9 Miguel Guam\u00e1n",
+      "nivel_academico": "CN",
+      "email": "jmguaman@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "M\u00e1ster en \"Gesti\u00f3n y Auditor\u00eda Medioambiental\" Universidad de C\u00e1diz-Espa\u00f1a. Diplomado en \"Gesti\u00f3n Universitaria\" de la Universidad T\u00e9cnica Particular de Loja-Ecuador. Experto Universitario en \"Requerimientos de Calidad para la Acreditaci\u00f3n de Laboratorios de An\u00e1lisis Qu\u00edmico\" de la Universidad Internacional de Andaluc\u00eda Espa\u00f1a. Ingeniero en Industrias Agropecuarias por la Universidad T\u00e9cnica Particular de Loja-Ecuador, Perito en Ingl\u00e9s por la Universidad T\u00e9cnica Particular de Loja. Docente universitario en la UTPL en las asignaturas de: Qu\u00edmica General, An\u00e1lisis Qu\u00edmico, Auditor\u00edas ambientales, Evaluaci\u00f3n de Impactos Ambientales, etc. Experiencia de 36 a\u00f1os de trabajo en la UTPL."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 5,
+    "fields": {
+      "nombre": "Natacha Fierro",
+      "nivel_academico": "CN",
+      "email": "ndfierro@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "M\u00e1ster en \"Gesti\u00f3n De La Formaci\u00f3n: Planificaci\u00f3n, Desarrollo y Evaluaci\u00f3n de la Formaci\u00f3n de Formadores\" Universidad de Sevilla-Espa\u00f1a, M\u00e9dico Veterinario Zootecnista, Universidad Nacional de Loja, Experiencia de 6 a\u00f1os como T\u00e9cnico Extensionista en el desarrollo de proyectos comunitarios, Fiscalizador de Proyectos Agropecuarios ( CAF-IICA- MBS), Actividades relacionadas como Docente Universitario desde el a\u00f1o 2013 ( UTPL) de las asignaturas: Tecnolog\u00eda Social, Desarrollo Comunitario y Gesti\u00f3n Social ."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 6,
+    "fields": {
+      "nombre": "Mar\u00eda del Cisne Guam\u00e1n",
+      "nivel_academico": "CN",
+      "email": "mcguaman@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "M\u00e1ster en \"Agroalimentaci\u00f3n\", Universidad de C\u00e1diz - Espa\u00f1a. Ingeniero Qu\u00edmico, Universidad T\u00e9cnica Particular de Loja. Estudiante de Doctorado, en la Univesidad de C\u00e1diz en Nanociencia y Tecnolog\u00eda de los Materiales Docente Universitario de las materias: Alimentos y Componentes Funcionales, Bromatolog\u00eda y Nutrici\u00f3n y Educaci\u00f3n para una alimentaci\u00f3n saludable. Experiencia en extracci\u00f3n y cuantificaci\u00f3n de compuestos antioxidantes, tecnolog\u00eda de fluidos supercr\u00edticos y atomizaci\u00f3n."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 7,
+    "fields": {
+      "nombre": "Jacqueline Rojas",
+      "nivel_academico": "CN",
+      "email": "jerojasx@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Gesti\u00f3n y Manejo de Recursos fitogen\u00e9ticos, otorgado por la Universidad Polit\u00e9cnica de Madrid. Ingeniero Agr\u00f3nomo, t\u00edtulo obtenido en la Universidad Nacional de Loja, docente de las asignaturas de Fitopatolog\u00eda, Entomolog\u00eda y Manejo Integrado de Plagas y Huertos familiares, con once a\u00f1os de experiencia en docencia, en la carrera de Ingenier\u00eda Agropecuaria e Investigador del Departamento de Ciencias Biol\u00f3gicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 8,
+    "fields": {
+      "nombre": "Paulina Aguirre",
+      "nivel_academico": "CN",
+      "email": "piaguirre@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 9,
+    "fields": {
+      "nombre": "Jos\u00e9 Miguel Fern\u00e1ndez",
+      "nivel_academico": "CN",
+      "email": "jmfernandez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 10,
+    "fields": {
+      "nombre": "Leticia Jimenez",
+      "nivel_academico": "CN",
+      "email": "lsjimenez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctorado y Diplomado en \"Manejo y Gesti\u00f3n de Recursos Fitogen\u00e9ticos\" Universidad Polit\u00e9cnica de Madrid - Espa\u00f1a. Ingeniera Agr\u00f3noma de la Universidad Nacional de Loja, Docente universitario de la UTPL, de las materias de Edafolog\u00eda I, Edafolog\u00eda II, Manejo Sustentable del Suelo. Experiencia de 13 a\u00f1os de trabajo en las Titulaciones de Ingenier\u00eda Agropecuaria y Gesti\u00f3n Ambiental, docente investigador del Departamento de Ciencias Biol\u00f3gicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 11,
+    "fields": {
+      "nombre": "Juan Manuel Garc\u00eda",
+      "nivel_academico": "CN",
+      "email": "mgarcia@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Econom\u00eda de Recursos Naturales y Desarrollo Sustentable, Universidad Nacional Aut\u00f3nomade M\u00e9xico (UNAM), M\u00e9xico. Magister en Gesti\u00f3n para el Desarrollo Sustentable, Universidad Cat\u00f3licade Temuco, Chile. Magister en Gesti\u00f3n de la Calidad Educativa, Universidad de Sevilla (Titulo propio,2011). Certificado Internacional en Dise\u00f1o, Gerencia y Evaluaci\u00f3n de Proyectos, Banco Interamericano de Desarrollo BID, Pontificia Universidad Cat\u00f3lica de Quito, Ecuador. Economista por la Universidad T\u00e9cnica Particular de Loja, Ecuador. Docente Universitario a nivel de pre-grado (proyectos, econom\u00eda de recursos naturales, pol\u00edtica econ\u00f3mica), en posgrado (gerencia de proyectos, l\u00edneas de base, evaluaci\u00f3n social y econ\u00f3mica de proyectos, administraci\u00f3n de recursos naturales), a nivel de posgrado de Ecolog\u00eda y Medio Ambiente y Dise\u00f1o y Evaluaci\u00f3n de Proyectos."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 12,
+    "fields": {
+      "nombre": "Rene Elizalde",
+      "nivel_academico": "CN",
+      "email": "rrelizalde@utpl.edu.ec",
+      "twitter": "@reroes",
+      "resumen": "M\u00e1ster Universitario en Ingenier\u00eda del Software para la Web - Universidad de Alcal\u00e1. Ingeniero en Sistemas - Universidad Nacional de Loja. Docente Investigador Secci\u00f3n Tecnolog\u00edas Avanzadas de la Web."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 13,
+    "fields": {
+      "nombre": "Mar\u00eda Beatriz Eguiguren",
+      "nivel_academico": "CN",
+      "email": "mbeguiguren@utpl.edu.ec",
+      "twitter": "@mabeeguiguren",
+      "resumen": "Abogada, Doctora en jurisprudencia, Mag\u00edster en Derecho Civil y procesal civil, Candidata a doctora en Ciencias Sociales, Mediadora."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 14,
+    "fields": {
+      "nombre": "Carlos Ortiz",
+      "nivel_academico": "CN",
+      "email": "ccortiz@utpl.edu.ec",
+      "twitter": "@cortizleon",
+      "resumen": "Doctor en Comunicaci\u00f3n y Periodismo. Director del MediaLab UTPL. He trabajado en varias producciones audiovisuales nacionales e internacionales."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 15,
+    "fields": {
+      "nombre": "Kruzkaya Ord\u00f3\u00f1ez",
+      "nivel_academico": "CN",
+      "email": "kordonez@utpl.edu.ec",
+      "twitter": "@cortizleon",
+      "resumen": "Mag\u00edster en Industrias Creativas. Ha trabajado en la producci\u00f3n de varios documentales y programas de Televisi\u00f3n."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 16,
+    "fields": {
+      "nombre": "Silvia Vaca",
+      "nivel_academico": "CN",
+      "email": "slvaca@utpl.edu.ec",
+      "twitter": "@slvacag",
+      "resumen": "Ph.D. en orientaci\u00f3n para la carrera (UNED), Magister en desarrollo de la inteligencia (UTPL), Psic\u00f3loga cl\u00ednica (UDA), Directora del Departamento de Psicolog\u00eda UTPL, lineas de investigaci\u00f3n: consumo de sustancias, salud mental, desarrollo cognitivo y altas capacidades."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 17,
+    "fields": {
+      "nombre": "Diana Rivera",
+      "nivel_academico": "CN",
+      "email": "derivera@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctora en Comunicaci\u00f3n y periodismo por la Universidad Santiago de Compostela, Espa\u00f1a. Directora del \u00c1rea Sociohuman\u00edstica de la Universidad T\u00e9cnica Particular de Loja, Ecuador. L\u00ednea de investigaci\u00f3n periodismo digital. Co-editora internacional de la revista cient\u00edfica Comunicar.\r\n\r\nHa participado en 5 proyectos de investigaci\u00f3n financiados: \u201cHistoria de la comunicaci\u00f3n de Ecuador. Prensa, radio, televisi\u00f3n, fotograf\u00eda y medios digitales\u201d, \u201cEstudio del estado de la empresa period\u00edstica en Ecuador\u201d, \u201cMapa de la comunicaci\u00f3n del Ecuador\u201d, \u201cAn\u00e1lisis de la agenda setting de los medios de comunicaci\u00f3n televisivos, impresos y digitales de Ecuador\u201d y Competencias medi\u00e1ticas audiovisuales. En 2012 fue seleccionada por UNESCO y FELAFACS como profesora para dictar el m\u00f3dulo Periodismo en l\u00ednea/multimedia para los pa\u00edses de la Regi\u00f3n Andina."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 18,
+    "fields": {
+      "nombre": "Isidro Mar\u00edn",
+      "nivel_academico": "CN",
+      "email": "imarin1@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Investigador de la Universidad T\u00e9cnica Particular de Loja (UTPL). Su carrera investigadora est\u00e1 centrada principalmente en los consumos de drogas. Ha publicado diversos art\u00edculos cient\u00edficos en revistas de impacto internacional centrados en consumos de drogas por parte de estudiantes universitarios."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 19,
+    "fields": {
+      "nombre": "Claudia Rodr\u00edguez",
+      "nivel_academico": "CN",
+      "email": "cvrodriguezx@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "M\u00e1ster en Investigaci\u00f3n de la Comunicaci\u00f3n por la Universidad de Navarra. Profesora de tiempo completo en la Universidad T\u00e9cnica Particular de Loja en la asignatura Opini\u00f3n P\u00fablica. L\u00ednea de investigaci\u00f3n: comunicaci\u00f3n y tecnolog\u00edas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 20,
+    "fields": {
+      "nombre": "Mayra Gonz\u00e1lez",
+      "nivel_academico": "CN",
+      "email": "mpgonzales@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Mayra Gonzales-C\u00f3rdova es tutora del m\u00f3dulo de Introducci\u00f3n a la Cultura Digital de la Maestr\u00eda de Comunicaci\u00f3n y Cultura Digital, docente de la asignatura de Periodismo Ciudadano en la Modalidad Presencial y a Distancia de la Titulaci\u00f3n de Comunicaci\u00f3n Social, Universidad T\u00e9cnica Particular de Loja (UTPL), desde el 2006. M\u00e1ster en Investigaci\u00f3n en Comunicaci\u00f3n y Doctorando en Comunicaci\u00f3n por la Universidad de Navarra- Espa\u00f1a.\r\n\r\nDesde el 2012 al 2014 trabaj\u00f3 en la Direcci\u00f3n de Comunicaci\u00f3n. Desde el 2014 hasta la actualidad es Coordinadora de la Secci\u00f3n de Comunicaci\u00f3n y Tecnolog\u00edas. Participaci\u00f3n en proyectos institucionales como: \u201cHistoria de la comunicaci\u00f3n de Ecuador. Prensa, radio, televisi\u00f3n, fotograf\u00eda y medios digitales\u201d, \u201cLa narrativa en los blogs de Ecuador\u201d, \u201cMapa de la comunicaci\u00f3n de Ecuador\u201d, en el programa de investigaci\u00f3n \u201cHistoria y pol\u00edticas de comunicaci\u00f3n, usos y posibilidades del crowdfunding para la pr\u00e1ctica del periodismo\u201d y en el proyecto interno \"Fen\u00f3meno de El Ni\u00f1o\"."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 21,
+    "fields": {
+      "nombre": "Gianella Carri\u00f3n Salinas",
+      "nivel_academico": "CN",
+      "email": "giane.ale.c@gmail.com",
+      "twitter": "",
+      "resumen": "T\u00e9cnica de Investigaci\u00f3n del Departamento de Ciencias de la Comunicaci\u00f3n de la Universidad T\u00e9cnica Particular de Loja, 2016. Licenciada en Comunicaci\u00f3n Social por la Universidad T\u00e9cnica Particular de Loja.\r\n\r\nHa realizado cobertura period\u00edstica en medios institucionales de la UTPL: radio, prensa, televisi\u00f3n y cuentas institucionales en redes sociales durante un a\u00f1o y medio. Encargada de las cuentas de Relaciones P\u00fablicas de eventos nacionales e internacionales realizados en la UTPL durante seis meses."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 22,
+    "fields": {
+      "nombre": "Andrea Vel\u00e1zquez",
+      "nivel_academico": "CN",
+      "email": "avvelasquez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Profesora de Marketing y Publicidad de la Universidad T\u00e9cnica Particular de Loja. Doctoranda en Comunicaci\u00f3n e Industrias Creativas por la Universidad de Santiago de Compostela - Espa\u00f1a y M\u00e1ster Universitario en Comunicaci\u00f3n e Industrias Creativas por la Universidad La Misma. Diploma Superior en Gerencia Estrat\u00e9gica de Mercadeo, Diploma Superior en Comunicaci\u00f3n Corporativa. Fue Gerente de Marketing de la Universidad T\u00e9cnica Particular de Loja y Miembro de los equipos de Calidad de las titulaciones de Comunicaci\u00f3n Social y Relaciones P\u00fablicas."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 23,
+    "fields": {
+      "nombre": "M\u00f3nica Guerra",
+      "nivel_academico": "CN",
+      "email": "maguerra36@utpl.edu.ec",
+      "twitter": "@monkymiau",
+      "resumen": "Ph.D. en Biolog\u00eda con especializaci\u00f3n Ecolog\u00eda, Evoluci\u00f3n y Comportamiento de la Universidad de Texas en Austin (USA). Docente-investigadora en la Secci\u00f3n de Biolog\u00eda y Gen\u00e9tica de la UTPL desde Abril de 2017. L\u00edneas de investigaci\u00f3n incluyen anfibios, bioac\u00fastica y evoluci\u00f3n del comportamiento animal, para lo cual incorpora experimentos de campo con t\u00e9cnicas de gen\u00e9tica molecular."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 24,
+    "fields": {
+      "nombre": "Pa\u00fal Lojan",
+      "nivel_academico": "CN",
+      "email": "pdlojan@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Doctor en Ciencias Agron\u00f3micas e Ingenier\u00eda Biol\u00f3gica, otorgado por la Universidad Cat\u00f3lica de Lovaina de B\u00e9lgica. Ingeniero Agropecuario, t\u00edtulo obtenido en la Universidad T\u00e9cnica Particular de Loja, docente de las asignaturas de Biolog\u00eda General, Biolog\u00eda Celular y Microbiolog\u00eda. Experiencia de 6 a\u00f1os en el departamento de Ciencias Biol\u00f3gicas de la UTPL en el grupo de investigaci\u00f3n: Microbial Systems Ecology and Evolution. Participaci\u00f3n en proyectos de investigaci\u00f3n nacionales e internacionales. Experiencia en investigaci\u00f3n referente a la formulaci\u00f3n y aplicaci\u00f3n de microorganismos en la agricultura. Ha realizado varias publicaciones sobre el tema."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 25,
+    "fields": {
+      "nombre": "Diana Espinoza",
+      "nivel_academico": "CN",
+      "email": "dlespinoza@utpl.edu.ec",
+      "twitter": "@dianaespinoza",
+      "resumen": "Estudiante de Doctorado en Administraci\u00f3n y Direcci\u00f3n de Empresas de la Universidad Polit\u00e9cnica de Valencia - Espa\u00f1a. M\u00e1ster en \"Econom\u00eda Agroalimentaria y del Medio Ambiente\" - Universidad Polit\u00e9cnica de Valencia - Espa\u00f1a. Diplomado en \"Gerencia Estrat\u00e9gica de Mercadeo\" - Universidad T\u00e9cnica Particular de Loja. Economista por la UTPL. Experiencia profesional y acad\u00e9mica de 13 a\u00f1os, con conocimiento en las \u00e1reas de emprendimiento y gesti\u00f3n empresarial. Experiencia en asesor\u00eda y capacitaci\u00f3n a emprendedores."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 26,
+    "fields": {
+      "nombre": "Glenda Ponce",
+      "nivel_academico": "CN",
+      "email": "geponce@utpl.edu.ec",
+      "twitter": "@gponce",
+      "resumen": "M\u00e1ster en \"Econom\u00eda Agroalimentaria y del Medio Ambiente\" - Universidad Polit\u00e9cnica de Valencia - Espa\u00f1a. DEA en \"Gesti\u00f3n y Pol\u00edticas de Comercio Internacional\" - Universidad Polit\u00e9cnica de Valencia. Mag\u00edster en Evaluaci\u00f3n, Direcci\u00f3n y Gesti\u00f3n de la Calidad Universitaria por la Universidad de Sevilla \u2013 Espa\u00f1a. Ingeniera en Administraci\u00f3n de Empresas por la Universidad T\u00e9cnica Particular de Loja. Actualmente cursando el doctorado en Administraci\u00f3n y Direcci\u00f3n de Empresas de la UPV. Docente de la UTPL en las asignaturas de Planificaci\u00f3n y Desarrollo Organizacional, Valoraci\u00f3n de Empresas, Canales de Distribuci\u00f3n, Gesti\u00f3n de Negocios, Emprendimiento, en las carreras de Administraci\u00f3n de Empresas y Contabilidad y Auditoria desde el 2005. Once a\u00f1os de experiencia en diversos departamentos de la UTPL inclu\u00eddo el departamento de Ciencias Empresariles. Las \u00e1reas de inter\u00e9s en la investigaci\u00f3n corresponden a teor\u00eda de organizaciones, capacidad de aprendizaje de las organizaciones para la generaci\u00f3n de valor."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 27,
+    "fields": {
+      "nombre": "Freddy G\u00f3mez",
+      "nivel_academico": "CN",
+      "email": "frgomez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Economista y Magister en Gesti\u00f3n y Desarrollo Social, docente del Departamento de Econom\u00eda, Secci\u00f3n Teor\u00eda Econ\u00f3mica de la Universidad T\u00e9cnica Particular de Loja en la titulaci\u00f3n de Econom\u00eda y Maestr\u00eda de Gesti\u00f3n de Proyectos. Parte del equipo de investigaci\u00f3n Crecimiento Econ\u00f3mico."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 28,
+    "fields": {
+      "nombre": "Francisco Ochoa",
+      "nivel_academico": "CN",
+      "email": "ofochoa@utpl.edu.ec",
+      "twitter": "",
+      "resumen": ""
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 29,
+    "fields": {
+      "nombre": "Paulo V\u00e9lez Le\u00f3n",
+      "nivel_academico": "CN",
+      "email": "pevelez@utpl.edu.ec",
+      "twitter": "",
+      "resumen": "Soy Profesor en la Secci\u00f3n de Filosof\u00eda y Teolog\u00eda de la Universidad T\u00e9cnica de Loja. Mi trabajo de investigaci\u00f3n se centra principalmente en los fundamentos e historia de la metaf\u00edsica, especialmente la contribuci\u00f3n hispano medioeval a ella; as\u00ed como, en los fundamentos de la teor\u00eda del conocimiento y la est\u00e9tica, en particular de la ontolog\u00eda del mundo del arte. Mi investigaci\u00f3n en la UTPL explora sobre los fundamentos de la ontolog\u00eda y sus implicaciones en la estructura ontol\u00f3gica del mundo del arte."
+    }
+  },
+  {
+    "model": "cursosHandler.docentes",
+    "pk": 30,
+    "fields": {
+      "nombre": "Juan Carlos Torres",
+      "nivel_academico": "CN",
+      "email": "jctorres@utpl.edu.ec",
+      "twitter": "@jctorres72",
+      "resumen": "Dr. en Sociedad de la Informaci\u00f3n y del Conocimiento, profesor de estad\u00edstica b\u00e1sica y avanzada en la Universidad T\u00e9cnica Particular de Loja, los campos de estudio son la aplicaci\u00f3n de miner\u00eda de datos y ciencia de datos a la transformaci\u00f3n de la sociedad motivada por el uso de la tecnolog\u00eda."
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 1,
+    "fields": {
+      "cod": "EADM-Ed3",
+      "nombre": "Manejo y Exploraci\u00f3n de Datos",
+      "descripcion": "El presente curso se realizar\u00e1 de una forma te\u00f3rica-pr\u00e1ctica en la cual se muestre la importancia del manejo de los datos y los procedimientos espec\u00edficos para desarrollar algunas acciones espec\u00edficas del manejo y exploraci\u00f3n de datos con Excel. Durante el proceso del curso se propondr\u00e1 varios ejercicios para procesar y analizar datos. Los ejercicios que se desarrollaran durante el curso tienen por objetivo mostrar como debe organizar los datos y como generar un procedimiento para revisar y graficar los datos. Al final del curso podr\u00e1 ver como los datos se convierten en informaci\u00f3n.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "3",
+      "oferta": "abril 2018",
+      "tematica": "Manejo de Datos",
+      "fecha_inscripcion": "2018-03-05",
+      "fecha_inicio": "2018-04-09",
+      "esfuerzo_estimado": "6",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EADM4+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 2,
+    "fields": {
+      "cod": "SARH-Ed2",
+      "nombre": "Salud Sexual y reproductiva",
+      "descripcion": "La sexualidad es natural al ser humano, por esta raz\u00f3n vivirla de forma enriquecedora y feliz comprendiendo sus dimensiones, resulta ser un factor fundamental para mejorar la calidad de vida, la salud y el bienestar. Sus caracter\u00edsticas abarcan procesos que van desde el conocimiento de s\u00ed mismo y de los dem\u00e1s, hasta el campo de las relaciones interpersonales.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "2",
+      "oferta": "abril 2018",
+      "tematica": "Sexualidad",
+      "fecha_inscripcion": "2018-03-06",
+      "fecha_inicio": "2018-04-10",
+      "esfuerzo_estimado": "10",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+SARH3+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 3,
+    "fields": {
+      "cod": "FERBEV-Ed6",
+      "nombre": "Bebidas alcoholicas fermentadas",
+      "descripcion": "Este curso tiene como objetivo fundamental brindar al participante conocimientos b\u00e1sicos sobre el potencial biotecnol\u00f3gico de los microorganismos, en especial levaduras y su utilizaci\u00f3n en la obtenci\u00f3n de bebidas alcoh\u00f3licas fermentadas como el vino y la cerveza",
+      "pre_requisitos": "Ninguno",
+      "edicion": "6",
+      "oferta": "abril 2018",
+      "tematica": "Bebidas alcoh\u00f3licas",
+      "fecha_inscripcion": "2018-03-07",
+      "fecha_inicio": "2018-04-11",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+FERBEV7+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 4,
+    "fields": {
+      "cod": "AKOMP-Ed8",
+      "nombre": "Conocimiento ancestral de plantas medicinales",
+      "descripcion": "M\u00e1s del 80% de la Poblaci\u00f3n en \u00c1frica, Am\u00e9rica latina y Asia basan sus expectativas de salud en las medicinas tradicionales, las cuales de una u otra manera est\u00e1n directamente relacionadas con el uso ancestral de especies medicinales. Si entramos en una farmacia moderna no podemos sorprendernos que cerca del 25% de los f\u00e1rmacos gal\u00e9nicos disponibles derivan de las plantas medicinales utilizadas por las medicinas tradicionales de diferentes comunidades y pa\u00edses.\r\n\r\nLa mayor\u00eda de las plantas medicinales que son usadas para la elaboraci\u00f3n de nuevos f\u00e1rmacos provienen del sur del planeta y han sido empleadas durante siglos en las sabanas africanas, en las selvas latinoamericanas y en las estepas Asi\u00e1ticas. Sin ellas hoy d\u00eda la medicina estar\u00eda probablemente privada de f\u00e1rmacos contra la malaria, de las poderosas anestesias para intervenciones quir\u00fargicas, de f\u00e1rmacos contra la hipertrofia de la pr\u00f3stata entre otras.\r\n\r\nSin embargo, a pesar de los impresionantes usos terap\u00e9uticos tradicionales de plantas medicinales poco o nada se sabe de las culturas y poblaciones que las usaron como recursos naturales terap\u00e9uticos, es as\u00ed que el presente curso busca desarrollar el inter\u00e9s para estudiar la medicina indigenista desde un enfoque hist\u00f3rico, antropol\u00f3gico, social y cultural.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Plantas medicinales",
+      "fecha_inscripcion": "2018-03-08",
+      "fecha_inicio": "2018-04-12",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+AKOMP-Ed8+2018_1/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 5,
+    "fields": {
+      "cod": "AIRPOLLUTION-Ed7",
+      "nombre": "Contaminaci\u00f3n atmosf\u00e9rica",
+      "descripcion": "La atm\u00f3sfera es esencial para la vida por lo que sus alteraciones tienen una gran repercusi\u00f3n en elhombre y otros seres vivos y, en general, en todo el planeta. Una atm\u00f3sfera contaminada puede da\u00f1ar la salud de las personas y afectar a la vida de las plantas y los animales. Pero, adem\u00e1s, los cambios que se producen en la composici\u00f3n qu\u00edmica de la atm\u00f3sfera pueden cambiar el clima, producir lluvia \u00e1cida o destruir el ozono, fen\u00f3menos todos ellos de una gran importancia global.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "7",
+      "oferta": "abril 2018",
+      "tematica": "Contaminaci\u00f3n Atmosf\u00e9rica",
+      "fecha_inscripcion": "2018-03-09",
+      "fecha_inicio": "2018-04-13",
+      "esfuerzo_estimado": "2",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+AIRPOLLUTION8+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 6,
+    "fields": {
+      "cod": "CD-Ed8",
+      "nombre": "Desarrollo comunitario",
+      "descripcion": "El Desarrollo Comunitario y Gesti\u00f3n Social es una disciplina que parte del concepto de \u201c Comunidad\u201d que es esencial para crear una sociedad m\u00e1s estable. La principal fortaleza de una comunidad es la gente, que a su vez est\u00e1 concentrada alrededor de n\u00facleos familiares. Las comunidades no pueden desarrollarse solas, pues las posibilidades que el entorno ofrezca son determinantes. El desarrollo comunitario entonces debe considerar todos los ejes para lograr mejores impactos en el mejoramiento de vida de una comunidad y de esta forma lograr un desarrollo comunitario sostenible, donde se mantenga respeto de la cultura local, manejo adecuado en los recursos naturales, bas\u00e1ndose en habilitar a las personas a \u201cSER M\u00c1S\u201d y no \u201cTENER M\u00c1S\u201d.\r\n\r\nAbordaremos interesantes tem\u00e1ticas como: El desarrollo comunitario y la extensi\u00f3n rural, Diagn\u00f3stico, Seguimiento y Evaluaci\u00f3n Participativa (DSEP), estudio de base participativo y las herramientas m\u00e1s importantes de participaci\u00f3n.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Desarrollo comunitario",
+      "fecha_inscripcion": "2018-03-10",
+      "fecha_inicio": "2018-04-14",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+CD9+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 7,
+    "fields": {
+      "cod": "EFHE-Ed8",
+      "nombre": "Educaci\u00f3n para una alimentaci\u00f3n saludable",
+      "descripcion": "El objetivo del curso es responder al compromiso adquirido por nuestro pa\u00eds ante organismos internacionales y regionales de educar a la poblaci\u00f3n como una de las acciones para mejorar la calidad de vida y disminuir las enfermedades relacionadas con la mala alimentaci\u00f3n.\r\n\r\nEn el presente curso revisaremos los principios basicos de una alimentaci\u00f3n saludable, los riesgo que implica para la salud el consumo de alimentos con altos contenidos de nutrientes deshabilitantes, procesados y/o conservados en condiciones no higi\u00e9nicas.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Alimentacion saludable",
+      "fecha_inscripcion": "2018-03-11",
+      "fecha_inicio": "2018-04-15",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EFHE9+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        6
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 8,
+    "fields": {
+      "cod": "HG-Ed8",
+      "nombre": "Huertos familiares",
+      "descripcion": "La necesidad de satisfacer la demanda de alimentos sanos para una poblaci\u00f3n creciente, as\u00ed como el grave deterioro del suelo son problemas que en el plano nacional y mundial es indispensable afrontar.\r\n\r\nEl presente curso tiene como objetivo principal brindar conocimientos b\u00e1sicos para el manejo de un huerto familiar, como alternativa para responder a la seguridad y soberan\u00eda alimentaria.\r\n\r\nSe abordaran seis tem\u00e1ticas de f\u00e1cil aplicaci\u00f3n que le permitir\u00e1n al estudiante cultivar en peque\u00f1as superficies y de forma manual e intensiva, un huerto con t\u00e9cnicas sustentables y amigables con el medio ambiente.",
+      "pre_requisitos": "Inter\u00e9s para fomentar la agricultura familiar",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Huertos familiares",
+      "fecha_inscripcion": "2018-03-12",
+      "fecha_inicio": "2018-04-16",
+      "esfuerzo_estimado": "8",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+HG9+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        7
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 9,
+    "fields": {
+      "cod": "INTRBIORREM-Ed7",
+      "nombre": "Introducci\u00f3n a la Biorremediaci\u00f3n",
+      "descripcion": "El prop\u00f3sito fundamental del curso es dar a conocer los conceptos y principios b\u00e1sicos de la biorremediaci\u00f3n. el fin es que el participante sea capaz de evaluar y elegir la mejor opci\u00f3n de biorremediaci\u00f3n como estrategia viable para la limpieza de sitios contaminados.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "7",
+      "oferta": "abril 2018",
+      "tematica": "Biorremediaci\u00f3n",
+      "fecha_inscripcion": "2018-03-13",
+      "fecha_inicio": "2018-04-17",
+      "esfuerzo_estimado": "20",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+INTRBIORREM8+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        8
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 10,
+    "fields": {
+      "cod": "JIT-Ed8",
+      "nombre": "Justo a tiempo (M\u00e9todo Toyota)",
+      "descripcion": "El TPS (Sistema de Producci\u00f3n Toyota) genera pensamiento cr\u00edtico y reflexivo acerca de cualquier bien que pueda producirse o servicio que pueda prestarse desde un enfoque de incremento a la productividad y reducci\u00f3n en los costos, de tal forma que sin importar el \u00e1rea de estudios de los profesionales en formaci\u00f3n contar\u00e1n con una herramienta que ayude a encontrar mejoras en los procesos que deban llevar a cabo tanto en la vida profesional como en la cotidiana.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Justo a tiempo",
+      "fecha_inscripcion": "2018-03-14",
+      "fecha_inicio": "2018-04-18",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+JIT9+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 11,
+    "fields": {
+      "cod": "SRM-Ed8",
+      "nombre": "Manejo del recurso suelo",
+      "descripcion": "El suelo es un recurso no renovable, de vital importancia para la producci\u00f3n de alimentos, regulaci\u00f3n del clima, suministro de combustibles, infraestructura, servicios ecosist\u00e9micos, hospeda \u00bc de la biodiversidad de nuestro planeta, es la base de los productos farmac\u00e9uticos y gen\u00e9ticos, entre otros. De acuerdo a la FAO \u201ccerca del 50% de los suelos de Am\u00e9rica Latina y el Caribe sufren deficiencia de nutrientes y la degradaci\u00f3n afecta hasta la mitad del territorio de algunos pa\u00edses\u201d. Por la importancia del suelo y por el rol hol\u00edstico que cumple este recurso en la sociedad, se celebr\u00f3 en el 2015 como el a\u00f1o internacional de los suelos.\r\n\r\nAbordaremos interesantes tem\u00e1ticas como: Fundamentos del manejo del recurso suelo, suelos de monta\u00f1a y agricultura, calidad de los suelos, cambio clim\u00e1tico, desertificaci\u00f3n y erosi\u00f3n del suelo y, conservaci\u00f3n del suelo.\r\n\r\nAl concluir este MOOC, se pretende que usted conozca las m\u00faltiples funciones del suelo y desde ahora sea parte de los defensores de este valioso recurso.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "8",
+      "oferta": "abril 2018",
+      "tematica": "Manejo del Recurso Suelo",
+      "fecha_inscripcion": "2018-03-15",
+      "fecha_inicio": "2018-04-19",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+SRM9+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 12,
+    "fields": {
+      "cod": "NRE-Ed3",
+      "nombre": "Econom\u00eda de Recursos Naturales",
+      "descripcion": "Este curso brindar\u00e1 la oportunidad para desarrollar conceptos claros sobre la econom\u00eda tradicional y de mercado. Mostrar\u00e1 a su vez los conceptos del subsistema econ\u00f3mico y su interrelaci\u00f3n con el sistema ecol\u00f3gico y ambiental. Mostrar\u00e1 adem\u00e1s las diferencias t\u00e9cnicas no solo ambientalistas filos\u00f3ficas sino razones cient\u00edficas para establecer equilibrios entre crecimiento y desarrollo.",
+      "pre_requisitos": "Econom\u00eda b\u00e1sica",
+      "edicion": "3",
+      "oferta": "abril 2018",
+      "tematica": "Econom\u00eda de Recursos Naturales",
+      "fecha_inscripcion": "2018-03-16",
+      "fecha_inicio": "2018-04-20",
+      "esfuerzo_estimado": "4",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+NRE4+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        11
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 13,
+    "fields": {
+      "cod": "LP-Ed3",
+      "nombre": "Introducci\u00f3n a la programaci\u00f3n",
+      "descripcion": "El curso Introducci\u00f3n a la Programaci\u00f3n, ense\u00f1a a los estudiantes c\u00f3mo pensar algor\u00edtmicamente y resolver problemas de manera eficiente. Las unidades incluyen problemas y soluciones, naturaleza de datos, algoritmos, estructuras de decisi\u00f3n y bucles, diagramas de flujo y desarrollo de problemas de programaci\u00f3n.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "3",
+      "oferta": "abril 2018",
+      "tematica": "Programaci\u00f3n",
+      "fecha_inscripcion": "2018-03-17",
+      "fecha_inicio": "2018-04-21",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+LP4+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        12
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 14,
+    "fields": {
+      "cod": "AMOCR-Ed2",
+      "nombre": "M\u00e9todos alternativos de resoluci\u00f3n de conflictos",
+      "descripcion": "Los m\u00e9todos alternativos de resoluci\u00f3n de conflictos tienen como fin el brindar herramientas necesarias al ser humano para que resuelva sus controversias en forma autocompositiva o heterocompositiva, mediante el desarrollo de destrezas conducentes a obtener un beneficio que favorezca a las partes, basado en el di\u00e1logo como un instrumento para la construcci\u00f3n de una cultura de paz.",
+      "pre_requisitos": "Conocimientos b\u00e1sicos sobre teor\u00eda de conflictos.",
+      "edicion": "2",
+      "oferta": "abril 2018",
+      "tematica": "Resoluci\u00f3n de conflictos",
+      "fecha_inscripcion": "2018-03-18",
+      "fecha_inicio": "2018-04-22",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+AMOCR3+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 15,
+    "fields": {
+      "cod": "AUDIOVPRO-Ed2",
+      "nombre": "Producci\u00f3n audiovisual",
+      "descripcion": "La producci\u00f3n audiovisual es el arte de crear productos utilizando la imagen y sonido, esta presente en varios \u00e1mbitos como la publicidad, la educaci\u00f3n, la cultura, etc. La creaci\u00f3n del audiovisual requiere revisar aspectos financieros, t\u00e9cnicos y log\u00edsticos. Los roles que asume cada miembro del equipo y las tareas se realizan en tres fases: pre producci\u00f3n, producci\u00f3n y post producci\u00f3n.",
+      "pre_requisitos": "Conocimientos b\u00e1sicos de fotograf\u00eda.",
+      "edicion": "2",
+      "oferta": "abril 2018",
+      "tematica": "Producci\u00f3n audiovisual",
+      "fecha_inscripcion": "2018-03-19",
+      "fecha_inicio": "2018-04-23",
+      "esfuerzo_estimado": "3",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+AUDIOVPRO3+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        14
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 16,
+    "fields": {
+      "cod": "COOSU-Ed2",
+      "nombre": "Prevenci\u00f3n integral de consumo",
+      "descripcion": "El curso est\u00e1 dirigido a proporcionar una visi\u00f3n global sobre el consumo de sustancias (drogas). Actualmente, la adicci\u00f3n al consumo de alcohol y otras drogas constituye uno de los problemas sociales m\u00e1s importante a nivel mundial. En este MOOC ofrecemos una informaci\u00f3n y formaci\u00f3n b\u00e1sica sobre la prevenci\u00f3n del consumo de sustancias, resaltando la importancia de las medidas sociales y las herramientas educativas que se puedan utilizar en diferentes \u00e1mbitos.",
+      "pre_requisitos": "Conocimientos b\u00e1sicos sobre biolog\u00eda, psicolog\u00eda, y realidad nacional.",
+      "edicion": "2",
+      "oferta": "abril 2018",
+      "tematica": "Consumo de sustancias",
+      "fecha_inscripcion": "2018-03-20",
+      "fecha_inicio": "2018-04-24",
+      "esfuerzo_estimado": "10",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+COOSU3+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        16
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 17,
+    "fields": {
+      "cod": "UTIC-Ed3",
+      "nombre": "Uso de las tecnolog\u00edas de la informaci\u00f3n y la comunicaci\u00f3n",
+      "descripcion": "Este MOOC resulte \u00fatil para el uso e implementaci\u00f3n de las TIC en los estudiantes y todas las personas que est\u00e9n interesadas en la producci\u00f3n de contenidos digitales, como herramienta importante para mejorar la educaci\u00f3n y hacer de ella una actividad interactiva. El uso de las TIC brinda a los usuarios la capacidad de emitir informaci\u00f3n y no solo recibirla.\r\n\r\nEl objetivo de este curso, es ense\u00f1ar el uso de las tecnolog\u00edas de la informaci\u00f3n y comunicaci\u00f3n, su aprovechamiento en el aula, herramientas y t\u00e9cnicas para la ense\u00f1anza- aprendizaje y la utilizaci\u00f3n en la vida diaria para mantenerse informados e informar a la sociedad.",
+      "pre_requisitos": "Utilizar herramientas digitales b\u00e1sicas.",
+      "edicion": "3",
+      "oferta": "abril 2018",
+      "tematica": "",
+      "fecha_inscripcion": "2018-03-21",
+      "fecha_inicio": "2018-04-25",
+      "esfuerzo_estimado": "10",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+UTIC4+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        17
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 18,
+    "fields": {
+      "cod": "EVOLFUND",
+      "nombre": "Fundamentos de Evoluci\u00f3n",
+      "descripcion": "El curso es una introducci\u00f3n a la historia e importancia de la teor\u00eda evolutiva. Nos enfocaremos en comprender conceptos b\u00e1sicos de biolog\u00eda evolutiva y entender c\u00f3mo act\u00faan los principales mecanismos evolutivos",
+      "pre_requisitos": "Biolog\u00eda General",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Evoluci\u00f3n",
+      "fecha_inscripcion": "2018-03-22",
+      "fecha_inicio": "2018-04-26",
+      "esfuerzo_estimado": "5",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EVOLFUND2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        23
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 19,
+    "fields": {
+      "cod": "EAAM",
+      "nombre": "Microbiolog\u00eda Ambiental y Agr\u00edcola",
+      "descripcion": "La Microbiolog\u00eda es una rama de la Biolog\u00eda que se encarga del estudio de los microorganismos. Una parte importante son las aplicaciones de estos organismos para solucionar algunos problemas tanto en el campo ambiental (en la recuperaci\u00f3n de ambientes degradados) como en el campo agr\u00edcola (en la producci\u00f3n de alimentos sanos).\r\n\r\nEn tiempos actuales existe la necesidad de mejorar la eficiencia de la producci\u00f3n de alimentos para satisfacer la demanda de la creciente poblaci\u00f3n humana. Sin embargo, las posibles soluciones deben por otro lado venir de tecnolog\u00edas de bajo costo y amigables con el medio ambiente. La utilizaci\u00f3n de microorganismos es una alternativa interesante que junto con otras tecnolog\u00edas pueden ayudar a solucionar algunos problemas de contaminaci\u00f3n y de eficiencia productiva.\r\n\r\nEl presente curso tiene como objetivo principal brindar conocimientos b\u00e1sicos acerca de la microbiolog\u00eda, el conocer algunas t\u00e9cnicas b\u00e1sicas que se pueden utilizar dentro del laboratorio para su aislamiento, multiplicaci\u00f3n y formulaci\u00f3n de estos para posibles aplicaciones en campo. Se abordar\u00e1n seis tem\u00e1ticas de f\u00e1cil aplicaci\u00f3n que le permitir\u00e1n al estudiante tener una visi\u00f3n actual de la microbiolog\u00eda y sus campos de aplicaci\u00f3n.",
+      "pre_requisitos": "Tener disponibilidad para estudiar, inter\u00e9s por la innovaci\u00f3n",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Microbiolog\u00eda",
+      "fecha_inscripcion": "2018-03-23",
+      "fecha_inicio": "2018-04-27",
+      "esfuerzo_estimado": "10",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EAAM2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        24
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 20,
+    "fields": {
+      "cod": "EAIG",
+      "nombre": "Emprendimiento y generaci\u00f3n de ideas",
+      "descripcion": "El curso denominado emprendimiento y generaci\u00f3n de ideas se oferta con la finalidad de desarrollar conocimientos, identificar y potenciar oportunidades, para emprender e innovar en el \u00e1mbito personal, social, laboral o productivo.",
+      "pre_requisitos": "Conocimiento general del entorno local y nacional.",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Emprendimiento",
+      "fecha_inscripcion": "2018-03-24",
+      "fecha_inicio": "2018-04-28",
+      "esfuerzo_estimado": "10",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EAIG2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        25,
+        26
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 21,
+    "fields": {
+      "cod": "EAUF",
+      "nombre": "Econom\u00eda a tu alcance",
+      "descripcion": "Se conocer\u00e1 conceptos b\u00e1sicos acerca de la din\u00e1mica y funcionamiento de la econom\u00eda de mercado y familiar, as\u00ed como del pa\u00eds a nivel general. Empezando por los agentes que interact\u00faan en la sociedad, en el \u00e1mbito personal o individual, familiar, empresarial, comercial, entre otros.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Econom\u00eda a tu alcance",
+      "fecha_inscripcion": "2018-03-25",
+      "fecha_inicio": "2018-04-29",
+      "esfuerzo_estimado": "6",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+EAUF2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        27
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 22,
+    "fields": {
+      "cod": "DBMAA",
+      "nombre": "Manejo y an\u00e1lisis de bases de datos",
+      "descripcion": "El curso maneja las metodolog\u00edas necesarias para obtener, transformar e interpretar la informaci\u00f3n, a trav\u00e9s de la estad\u00edstica. Los temas abordados giran en base a exploraci\u00f3n de bases de datos, aplicaci\u00f3n de m\u00e9todos estad\u00edsticos para el an\u00e1lisis y evaluaci\u00f3n de la informaci\u00f3n, adem\u00e1s de generar, resumir e interpretar informaci\u00f3n a trav\u00e9s gr\u00e1ficos y cuadros estad\u00edsticos.",
+      "pre_requisitos": "Conocimientos b\u00e1sicos de matem\u00e1tica",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Base de Datos",
+      "fecha_inscripcion": "2018-03-26",
+      "fecha_inicio": "2018-04-30",
+      "esfuerzo_estimado": "6",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+DBMAA+2018_1/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        28
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 23,
+    "fields": {
+      "cod": "ANTRPY",
+      "nombre": "Antropolog\u00eda B\u00e1sica",
+      "descripcion": "\u00bfQu\u00e9 es la persona? \u00bfQu\u00e9 es la libertad? \u00bfQu\u00e9 es el dolor? Este curso intentar\u00e1 abordar filos\u00f3ficamente estas interrogantes y as\u00ed ofrecer los fundamentos te\u00f3ricos para el estudio de la persona humana en el acontecer de su existencia vital, desde el humanismo de Cristo.\r\n\r\nEn este sentido, este curso de Antropolog\u00eda B\u00e1sica tiene como prop\u00f3sito fundamental proporcionar un conjunto amplio e integral de conocimientos para la comprensi\u00f3n de los diversos elementos que configuran al ser humano, su sentido como persona, as\u00ed como su vivencia, a fin de dotar al alumno de una visi\u00f3n integral desde el humanismo de Cristo, acerca de su realidad, como personas llamadas a satisfacer su existencia en el marco de su vocaci\u00f3n trascendente.\r\n\r\nAl terminar el curso, el alumno obtendr\u00e1 una visi\u00f3n hol\u00edstica de los principales problemas de la antropolog\u00eda filos\u00f3fica y dominar\u00e1 su terminolog\u00eda; identificar\u00e1 y analizar\u00e1 las diversas problem\u00e1ticas en torno al entendimiento del ser humano en la actualidad; afrontar\u00e1 los problemas inherentes al desarrollo de la existencia humana con sentido cr\u00edtico; y, comprender\u00e1 el modelo gen\u00e9tico presentado por Fernando Rielo.",
+      "pre_requisitos": "Ninguno",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Artes y Humanidades",
+      "fecha_inscripcion": "2018-03-27",
+      "fecha_inicio": "2018-03-27",
+      "esfuerzo_estimado": "6",
+      "duracion": "8",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+ANTRPY2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        29
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.cursos",
+    "pk": 24,
+    "fields": {
+      "cod": "DCSFS",
+      "nombre": "Ciencia datos: primeros pasos",
+      "descripcion": "En este curso vamos a ver c\u00f3mo convertir datos en informaci\u00f3n y a utilizarla de una manera sencilla y pr\u00e1ctica para obtener las mayores ventajas de ella. Se parte de los conceptos b\u00e1sicos de estad\u00edstica y se estudian las t\u00e9cnicas descriptivas que permiten mostrar las caracter\u00edsticas de un conjunto de datos y las t\u00e9cnicas inferenciales b\u00e1sicas que permiten obtener conclusiones para un conglomerado en base a los datos de una muestra.",
+      "pre_requisitos": "Tener conocimientos de matem\u00e1ticas b\u00e1sicas",
+      "edicion": "1",
+      "oferta": "abril 2018",
+      "tematica": "Estad\u00edstica",
+      "fecha_inscripcion": "2018-03-28",
+      "fecha_inicio": "2018-06-04",
+      "esfuerzo_estimado": "4",
+      "duracion": "6",
+      "link": "http://opencampus.utpl.edu.ec/courses/course-v1:UTPL+DCSFS2+2018_2/about",
+      "institucion": "UTPL",
+      "archivado": false,
+      "docentes": [
+        30
+      ]
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 1,
+    "fields": {
+      "competencia": "Generar conocimientos y principalmente aptitudes de manejo y exploraci\u00f3n de datos.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 2,
+    "fields": {
+      "competencia": "Adquirir conocimientos pr\u00e1cticos sobre el uso de herramientas en Excel que faciliten el procesamiento de datos.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 3,
+    "fields": {
+      "competencia": "Favorecer el conocimiento de la sexualidad, ofreciendo informaci\u00f3n necesaria sobre la funci\u00f3n, dimensi\u00f3n anat\u00f3mica, fisiol\u00f3gica, psicol\u00f3gica y social del desarrollo de la sexualidad. ",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 4,
+    "fields": {
+      "competencia": "Reflexionar sobre las relaciones afectivas desde el significado de amor, pareja y placer.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 5,
+    "fields": {
+      "competencia": "Educar para la sexualidad en el respeto de la dignidad inherente a todo ser humano, que se manifiesta en la promoci\u00f3n de sus derechos humanos, sexuales y reproductivos.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 6,
+    "fields": {
+      "competencia": "Conocer los principales m\u00e9todos de planificaci\u00f3n familiar, sus usos, contraindicaciones, efectos adversos y la perspectiva \u00e9tica de su funcionamiento.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 7,
+    "fields": {
+      "competencia": "Diferencia las principales caracter\u00edsticas de la uva usada , el proceso de producci\u00f3n y los diferentes tipos de vino.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 8,
+    "fields": {
+      "competencia": "Conoce el proceso general de elaboraci\u00f3n de vinos.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 9,
+    "fields": {
+      "competencia": "Conoce las principales operaciones para elaborar un vino.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 10,
+    "fields": {
+      "competencia": "Conoce los principales insumos y aditivos usados en el proceso de elaboraci\u00f3n de cerveza.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 11,
+    "fields": {
+      "competencia": "Conoce los fundamentos m\u00e1s importantes para estabilizar una cerveza.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 12,
+    "fields": {
+      "competencia": "Conoce y aplica el proceso de elaboraci\u00f3n de cerveza a nivel casero",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 13,
+    "fields": {
+      "competencia": "El participante al finalizar el curso comprende y aplica los procesos y operaciones b\u00e1sicas para la elaboraci\u00f3n de bebidas fermentadas.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 14,
+    "fields": {
+      "competencia": "Orientaci\u00f3n a la mejora continua.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 15,
+    "fields": {
+      "competencia": "Organizaci\u00f3n y planificaci\u00f3n del tiempo.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 16,
+    "fields": {
+      "competencia": "Pensamiento cr\u00edtico y reflexivo.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 17,
+    "fields": {
+      "competencia": "Reconoce los tipos de contaminantes atmosf\u00e9ricos.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 18,
+    "fields": {
+      "competencia": "Distingue los contaminantes primarios y secundarios.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 19,
+    "fields": {
+      "competencia": "Reconocer los fundamentos del Desarrollo Comunitario.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 20,
+    "fields": {
+      "competencia": "Dise\u00f1ar las herramientas necesarias para aplicarlas y obtener informaci\u00f3n en comunidades rurales.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 21,
+    "fields": {
+      "competencia": "Plantear propuestas de Desarrollo Comunitario.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 22,
+    "fields": {
+      "competencia": "Conoce los principios e indicadores de la Seguridad Alimentaria y Nutricional.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 23,
+    "fields": {
+      "competencia": "Asocia los diferentes alimentos con su aporte nutricional, componentes beneficiosos y caracter\u00edsticas principales.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 24,
+    "fields": {
+      "competencia": "Aplica los principios b\u00e1sicos de la inocuidad en la elecci\u00f3n y preparaci\u00f3n de alimento.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 25,
+    "fields": {
+      "competencia": "Conoce las potencialidades nutricionales de los alimentos en la dieta.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 26,
+    "fields": {
+      "competencia": "Interpreta las etiquetas de los alimentos procesados.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 27,
+    "fields": {
+      "competencia": "Conoce la contribuci\u00f3n de la agricultura urbana al mejoramiento de la econom\u00eda y la seguridad alimentaria. ",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 28,
+    "fields": {
+      "competencia": "Describe generalidades de la horticultura y los diferentes tipos de huertos que se pueda utilizar. ",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 29,
+    "fields": {
+      "competencia": "Identifica los elementos b\u00e1sicos que constituyen un sustrato org\u00e1nico y la importancia de los mismos para la producci\u00f3n de las hortalizas.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 30,
+    "fields": {
+      "competencia": "Comprende los principios del manejo de la siembra de las hortalizas.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 31,
+    "fields": {
+      "competencia": "Identifica las diferentes t\u00e9cnicas para el manejo eficiente del cultivo de las plantas de hortalizas.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 32,
+    "fields": {
+      "competencia": "Identifica la importancia de alternar y asociar los cultivos que establecen y sus beneficios para la composici\u00f3n del agroecosistema. ",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 33,
+    "fields": {
+      "competencia": "Entender los conceptos b\u00e1sicos y principios de la biorremediaci\u00f3n.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 34,
+    "fields": {
+      "competencia": "Conocer las caracter\u00edsticas de las matrices principales suceptibles a biorremediaci\u00f3n: suelo y agua.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 35,
+    "fields": {
+      "competencia": "Identificar los contaminantes susceptibles de biorremediaci\u00f3n, sus caracter\u00edsticas y sus fuentes.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 36,
+    "fields": {
+      "competencia": "Reconocer las diferentes t\u00e9cnicas de biorremediaci\u00f3n in situ y ex situ.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 37,
+    "fields": {
+      "competencia": "Seleccionar las t\u00e9cnicas de biorremediaci\u00f3n adecuada para cada contaminantes y matriz.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 38,
+    "fields": {
+      "competencia": "Conocer las perspectivas futuras de mejoras a procesos de biorremediaci\u00f3n.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 39,
+    "fields": {
+      "competencia": "Orientaci\u00f3n a la mejora continua ",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 40,
+    "fields": {
+      "competencia": "Organizaci\u00f3n y planificaci\u00f3n de tiempos y recursos ",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 41,
+    "fields": {
+      "competencia": "Pensamiento cr\u00edtico y reflexivo ",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 42,
+    "fields": {
+      "competencia": "Identificar los fundamentos para el manejo sostenible del suelo. ",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 43,
+    "fields": {
+      "competencia": "Relacionar el efecto de la vegetaci\u00f3n sobre las propiedades ed\u00e1ficas y viceversa. ",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 44,
+    "fields": {
+      "competencia": "Identificar las principales causas, efectos y posibles soluciones del cambio clim\u00e1tico, desertificaci\u00f3n y erosi\u00f3n de suelo.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 45,
+    "fields": {
+      "competencia": "Administrar y evaluar sistemas de manejo y protecci\u00f3n para fomentar el uso sostenible de los recursos naturales.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 46,
+    "fields": {
+      "competencia": "Analizar e integrar datos ambientales para desarrollar sistemas de manejo de los recursos naturales.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 47,
+    "fields": {
+      "competencia": "Describir la problem\u00e1tica ambiental global y local como fundamento para proponer alternativas de manejo y conservaci\u00f3n de los recursos ambientales.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 48,
+    "fields": {
+      "competencia": "Aplica principios y conceptos de fundamentos de programaci\u00f3n en la resoluci\u00f3n de problemas computacionales. ",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 49,
+    "fields": {
+      "competencia": "Determina los tipos de datos que mejor se ajusten para la resoluci\u00f3n de problemas mediante algoritmos.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 50,
+    "fields": {
+      "competencia": "Reconoce las fases del ciclo de desarrollo de software que se deben aplicar en el construcci\u00f3n de un programa.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 51,
+    "fields": {
+      "competencia": "Elabora algoritmos que permitan la resoluci\u00f3n de problemas utilizando estructuras de selecci\u00f3n y control.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 52,
+    "fields": {
+      "competencia": "Utilizar pruebas de escritorio que permitan validar la ejecuci\u00f3n de un algoritmo.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 53,
+    "fields": {
+      "competencia": "Conoce la simbolog\u00eda de los diagramas de flujo que permitan ser empleados en la resoluci\u00f3n de problemas.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 54,
+    "fields": {
+      "competencia": "Transforma las soluciones generadas mediante algoritmos y miniespecificaciones a un lenguaje de programaci\u00f3n de alto nivel.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 55,
+    "fields": {
+      "competencia": "Comprende el conflicto y su din\u00e1mica.",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 56,
+    "fields": {
+      "competencia": "Identifica el protocolo y tratamiento de la gesti\u00f3n del conflicto.",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 57,
+    "fields": {
+      "competencia": "Identifica los m\u00e9todos alternativos de soluci\u00f3n de conflictos.",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 58,
+    "fields": {
+      "competencia": "Conoce elementos de la producci\u00f3n audiovisual.",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 59,
+    "fields": {
+      "competencia": "Conoce el lenguaje audiovisual.",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 60,
+    "fields": {
+      "competencia": "Desarrolla habilidades para construir historias en formato audiovisual.",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 61,
+    "fields": {
+      "competencia": "El alumno comprender\u00e1 los conceptos b\u00e1sicos relacionados con el consumo de sustancias tanto desde la perspectiva de las sustancias como del consumidor.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 62,
+    "fields": {
+      "competencia": "El alumno diferenciar\u00e1 los procesos farmacodin\u00e1micos y farmacocin\u00e9ticos de las principales sustancias (drogas).",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 63,
+    "fields": {
+      "competencia": "El alumno analizar\u00e1 los factores protectores y de riesgo asociados al consumo de sustancias.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 64,
+    "fields": {
+      "competencia": "El alumno ser\u00e1 capaz de auto identificar sus recursos personales que le proteger\u00e1n hacia el consumo de sustancias.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 65,
+    "fields": {
+      "competencia": "El estudiante comprender\u00e1 los principales instrumentos para identificaci\u00f3n del nivel de consumo de sustancias.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 66,
+    "fields": {
+      "competencia": "El estudiante conocer\u00e1 la normativa nacional que se aplica en relaci\u00f3n al consumo de sustancias.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 67,
+    "fields": {
+      "competencia": "Conoce las dimensiones de las competencias medi\u00e1ticas y las TIC.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 68,
+    "fields": {
+      "competencia": "Aplica las herramientas digitales en diferentes contextos.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 69,
+    "fields": {
+      "competencia": "Comprende el funcionamiento de las principales redes sociales digitales.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 70,
+    "fields": {
+      "competencia": "Conocer y entender la teor\u00eda evolutiva.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 71,
+    "fields": {
+      "competencia": "Explicar los mecanismos micros y macro evolutivos.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 72,
+    "fields": {
+      "competencia": "Justificar la existencia de los seres vivos como resultado de un proceso evolutivo.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 73,
+    "fields": {
+      "competencia": "Avalar la evoluci\u00f3n como el concepto unificador de la Biolog\u00eda.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 74,
+    "fields": {
+      "competencia": "Conoce el campo de estudio de la Microbiolog\u00eda, sus inicios y la clasificaci\u00f3n de los principales grupos de microorganismos.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 75,
+    "fields": {
+      "competencia": "Analiza algunas t\u00e9cnicas b\u00e1sicas del cultivo de microorganismos a nivel de laboratorio y las normas de seguridad.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 76,
+    "fields": {
+      "competencia": "Comprende el campo de estudio de la Microbiolog\u00eda Ambiental.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 77,
+    "fields": {
+      "competencia": "Analiza algunos proyectos desarrollados o que se encuentra en curso sobre las posibles aplicaciones de los microorganismos en el campo ambiental.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 78,
+    "fields": {
+      "competencia": "Comprende el campo de estudio de la Microbiolog\u00eda Agr\u00edcola",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 79,
+    "fields": {
+      "competencia": "Analiza algunos proyectos desarrollados o que se encuentra en curso sobre las posibles aplicaciones de los microorganismos en el campo agr\u00edcola.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 80,
+    "fields": {
+      "competencia": "Desarrolla la actitud y capacidad emprendedora como agente de cambio.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 81,
+    "fields": {
+      "competencia": "Identifica nuevas oportunidades con base en un diagn\u00f3stico de su entorno.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 82,
+    "fields": {
+      "competencia": "Propone ideas innovadoras que responden a necesidades y desaf\u00edos de orden social.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 83,
+    "fields": {
+      "competencia": "Conocer la realidad de nuestro entorno y como interact\u00faan los agentes econ\u00f3micos.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 84,
+    "fields": {
+      "competencia": "Comprender la din\u00e1mica de mercado: comportamiento del consumidor y del productor en los diferentes bienes y servicios.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 85,
+    "fields": {
+      "competencia": "Analizar la econom\u00eda familiar asignando los recursos de una manera eficiente.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 86,
+    "fields": {
+      "competencia": "Capacidad para la obtenci\u00f3n y tratamiento de la informaci\u00f3n.",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 87,
+    "fields": {
+      "competencia": "Capacidad para describir y sintetizar la informaci\u00f3n a trav\u00e9s de gr\u00e1ficos e indicadores estad\u00edsticos.",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 88,
+    "fields": {
+      "competencia": "Capacidad para analizar, e interpretar resultados par una adecuada toma de decisiones.",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 89,
+    "fields": {
+      "competencia": "Identificar y comprender, desde el humanismo de Cristo, los principales problemas antropol\u00f3gicos que afectan el desarrollo de la existencia humana y de que la propuesta de Cristo al entendimiento y vivencia de estos problemas, le aporta al hombre su m\u00e1xima dignidad: el hombre ha sido creado a imagen",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 90,
+    "fields": {
+      "competencia": "Entender, desde el humanismo de Cristo, que la verdad revelada orienta la formaci\u00f3n de la persona humana en sus diversos \u00e1mbitos, tales como el familiar, el educativo, el acad\u00e9mico y el social.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 91,
+    "fields": {
+      "competencia": "Comprender el modelo gen\u00e9tico presentado por Fernando Rielo y ser capaz de percibir la novedad que representa.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 92,
+    "fields": {
+      "competencia": "Describir conjuntos de datos.",
+      "curso": 24
+    }
+  },
+  {
+    "model": "cursosHandler.competencias",
+    "pk": 93,
+    "fields": {
+      "competencia": "Realizar inferencias sobre conjuntos de datos.",
+      "curso": 24
+    }
+  },
+  {
+    "model": "cursosHandler.retos",
+    "pk": 1,
+    "fields": {
+      "titulo_reto": "Desarrollar una idea de negoci",
+      "fecha_inicio": "2018-11-12T22:12:13Z",
+      "fecha_fin": "2018-11-14T06:00:00Z",
+      "descripcion": "Desarrollar una idea de negocio que genere impacto a nivel local y nacional",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 1,
+    "fields": {
+      "orden": "1",
+      "contenido": "Estructura de los datos y metadata.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 2,
+    "fields": {
+      "orden": "2",
+      "contenido": "Generaci\u00f3n de variables.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 3,
+    "fields": {
+      "orden": "3",
+      "contenido": "Herramientas de organizaci\u00f3n y manejo.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 4,
+    "fields": {
+      "orden": "4",
+      "contenido": "Manipulaci\u00f3n de datos.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 5,
+    "fields": {
+      "orden": "5",
+      "contenido": "Representaci\u00f3n gr\u00e1fica.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 6,
+    "fields": {
+      "orden": "6",
+      "contenido": "Uso de Excel para graficar.",
+      "curso": 1
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 7,
+    "fields": {
+      "orden": "1",
+      "contenido": "Sexualidad.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 8,
+    "fields": {
+      "orden": "2",
+      "contenido": "Diversidad sexual.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 9,
+    "fields": {
+      "orden": "3",
+      "contenido": "Derechos sexuales y reproductivos.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 10,
+    "fields": {
+      "orden": "4",
+      "contenido": "El cuerpo y los \u00f3rganos sexuales reproductivos.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 11,
+    "fields": {
+      "orden": "5",
+      "contenido": "Tecnolog\u00eda anticonceptiva.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 12,
+    "fields": {
+      "orden": "6",
+      "contenido": "Enfermedades de transmisi\u00f3n sexual.",
+      "curso": 2
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 13,
+    "fields": {
+      "orden": "1",
+      "contenido": "El vino, conceptos y clasificaci\u00f3n.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 14,
+    "fields": {
+      "orden": "2",
+      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte I).",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 15,
+    "fields": {
+      "orden": "3",
+      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte II).",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 16,
+    "fields": {
+      "orden": "4",
+      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte I).",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 17,
+    "fields": {
+      "orden": "5",
+      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte II).",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 18,
+    "fields": {
+      "orden": "6",
+      "contenido": "Elaboraci\u00f3n artesanal de cerveza.",
+      "curso": 3
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 19,
+    "fields": {
+      "orden": "1",
+      "contenido": "Introducci\u00f3n al estudio sobre la historia del uso general de drogas vegetales.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 20,
+    "fields": {
+      "orden": "2",
+      "contenido": "Plantas pueblos y continentes.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 21,
+    "fields": {
+      "orden": "3",
+      "contenido": "Historia del uso de drogas vegetales.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 22,
+    "fields": {
+      "orden": "4",
+      "contenido": "Uso de plantas en Am\u00e9rica Precolombina.",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 23,
+    "fields": {
+      "orden": "5",
+      "contenido": "Mitos magia y sanaci\u00f3n en poblaciones andinas de Am\u00e9rica (Parte 1)",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 24,
+    "fields": {
+      "orden": "6",
+      "contenido": "Mitos magia y sanaci\u00f3n en poblaciones andinas de Am\u00e9rica (Parte 2)",
+      "curso": 4
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 25,
+    "fields": {
+      "orden": "1",
+      "contenido": "Contaminaci\u00f3n del aire.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 26,
+    "fields": {
+      "orden": "2",
+      "contenido": "Contaminaci\u00f3n del agua.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 27,
+    "fields": {
+      "orden": "3",
+      "contenido": "Contaminaci\u00f3n del suelo.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 28,
+    "fields": {
+      "orden": "4",
+      "contenido": "Contaminaci\u00f3n ac\u00fastica.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 29,
+    "fields": {
+      "orden": "5",
+      "contenido": "Contaminaci\u00f3n por residuos s\u00f3lidos.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 30,
+    "fields": {
+      "orden": "6",
+      "contenido": "Calentamiento global.",
+      "curso": 5
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 31,
+    "fields": {
+      "orden": "1",
+      "contenido": "Fundamentos del desarrollo comunitario.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 32,
+    "fields": {
+      "orden": "2",
+      "contenido": "Extensi\u00f3n rural y extensionista.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 33,
+    "fields": {
+      "orden": "3",
+      "contenido": "Diagn\u00f3stico, Seguimiento y Evaluaci\u00f3n Participativa.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 34,
+    "fields": {
+      "orden": "4",
+      "contenido": "Estudio de base participativo.",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 35,
+    "fields": {
+      "orden": "5",
+      "contenido": "Herramientas (parte 1).",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 36,
+    "fields": {
+      "orden": "6",
+      "contenido": "Herramientas (parte 2).",
+      "curso": 6
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 37,
+    "fields": {
+      "orden": "1",
+      "contenido": "Soberan\u00eda y Seguridad Alimentaria.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 38,
+    "fields": {
+      "orden": "2",
+      "contenido": "Alimentos.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 39,
+    "fields": {
+      "orden": "3",
+      "contenido": "Otros tipos de alimentos.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 40,
+    "fields": {
+      "orden": "4",
+      "contenido": "Inocuidad alimentaria.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 41,
+    "fields": {
+      "orden": "5",
+      "contenido": "Alimentaci\u00f3n Saludable.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 42,
+    "fields": {
+      "orden": "6",
+      "contenido": "Etiquetado de los alimentos.",
+      "curso": 7
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 43,
+    "fields": {
+      "orden": "1",
+      "contenido": "Conceptos b\u00e1sicos y la importancia de la agricultura familiar.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 44,
+    "fields": {
+      "orden": "2",
+      "contenido": "\u00bfQue es un huerto familiar?",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 45,
+    "fields": {
+      "orden": "3",
+      "contenido": "Preparaci\u00f3n de abonos y sustratos.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 46,
+    "fields": {
+      "orden": "4",
+      "contenido": "Propagaci\u00f3n de hortalizas.",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 47,
+    "fields": {
+      "orden": "5",
+      "contenido": "Labores culturales de las plantas hort\u00edcolas",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 48,
+    "fields": {
+      "orden": "6",
+      "contenido": "Distribuci\u00f3n, Asociaci\u00f3n y rotaci\u00f3n de cultivos de hortalizas",
+      "curso": 8
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 49,
+    "fields": {
+      "orden": "1",
+      "contenido": "Principios de Biorremediaci\u00f3n.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 50,
+    "fields": {
+      "orden": "2",
+      "contenido": "Contaminantes susceptibles a la biorremediaci\u00f3n.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 51,
+    "fields": {
+      "orden": "3",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 1.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 52,
+    "fields": {
+      "orden": "4",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 2.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 53,
+    "fields": {
+      "orden": "5",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n ex situ.",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 54,
+    "fields": {
+      "orden": "6",
+      "contenido": "Perspectivas futuras para la biorremediaci\u00f3n",
+      "curso": 9
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 55,
+    "fields": {
+      "orden": "1",
+      "contenido": "Introducci\u00f3n al Sistema de Producci\u00f3n Toyota (TPS)",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 56,
+    "fields": {
+      "orden": "2",
+      "contenido": "Bases del TPS (1).",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 57,
+    "fields": {
+      "orden": "3",
+      "contenido": "Bases del TPS (2).",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 58,
+    "fields": {
+      "orden": "4",
+      "contenido": "Pilares del TPS.",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 59,
+    "fields": {
+      "orden": "5",
+      "contenido": "Coraz\u00f3n del TPS.",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 60,
+    "fields": {
+      "orden": "6",
+      "contenido": "Tejado del TPS.",
+      "curso": 10
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 61,
+    "fields": {
+      "orden": "1",
+      "contenido": "Fundamentos del manejo del recurso suelo.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 62,
+    "fields": {
+      "orden": "2",
+      "contenido": "Suelos de monta\u00f1a y agricultura.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 63,
+    "fields": {
+      "orden": "3",
+      "contenido": "Calidad de los suelos.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 64,
+    "fields": {
+      "orden": "4",
+      "contenido": "Cambio clim\u00e1tico.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 65,
+    "fields": {
+      "orden": "5",
+      "contenido": "Desertificaci\u00f3n y erosi\u00f3n del suelo.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 66,
+    "fields": {
+      "orden": "6",
+      "contenido": "Conservaci\u00f3n de los suelos.",
+      "curso": 11
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 67,
+    "fields": {
+      "orden": "1",
+      "contenido": "Introducci\u00f3n a la econom\u00eda de recursos naturales.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 68,
+    "fields": {
+      "orden": "2",
+      "contenido": "La tragedia de los comunes.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 69,
+    "fields": {
+      "orden": "3",
+      "contenido": "Econom\u00eda ambiental.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 70,
+    "fields": {
+      "orden": "4",
+      "contenido": "Econom\u00eda ecol\u00f3gica.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 71,
+    "fields": {
+      "orden": "5",
+      "contenido": "Econom\u00eda pol\u00edtica y econom\u00eda humana.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 72,
+    "fields": {
+      "orden": "6",
+      "contenido": "Teor\u00eda del decrecimiento.",
+      "curso": 12
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 73,
+    "fields": {
+      "orden": "1",
+      "contenido": "Introducci\u00f3n a la l\u00f3gica de la programaci\u00f3n.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 74,
+    "fields": {
+      "orden": "2",
+      "contenido": "Naturaleza de los datos.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 75,
+    "fields": {
+      "orden": "3",
+      "contenido": "Conceptos y ejemplos de algoritmos.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 76,
+    "fields": {
+      "orden": "4",
+      "contenido": "Miniespecificaciones - estructuras de decisi\u00f3n y bucles.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 77,
+    "fields": {
+      "orden": "5",
+      "contenido": "Uso de diagramas de flujo.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 78,
+    "fields": {
+      "orden": "6",
+      "contenido": "Desarrollo de problemas de programaci\u00f3n.",
+      "curso": 13
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 79,
+    "fields": {
+      "orden": "1",
+      "contenido": "El conflicto",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 80,
+    "fields": {
+      "orden": "2",
+      "contenido": "Negociaci\u00f3n (parte 1)",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 81,
+    "fields": {
+      "orden": "3",
+      "contenido": "Negociaci\u00f3n (parte 2)",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 82,
+    "fields": {
+      "orden": "4",
+      "contenido": "Mediaci\u00f3n (parte 1)",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 83,
+    "fields": {
+      "orden": "5",
+      "contenido": "Mediaci\u00f3n (parte 2)",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 84,
+    "fields": {
+      "orden": "6",
+      "contenido": "Arbitraje",
+      "curso": 14
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 85,
+    "fields": {
+      "orden": "1",
+      "contenido": "\u00bfQu\u00e9 es la producci\u00f3n audiovisual?",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 86,
+    "fields": {
+      "orden": "2",
+      "contenido": "Equipo de producci\u00f3n",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 87,
+    "fields": {
+      "orden": "3",
+      "contenido": "El lenguaje audiovisual",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 88,
+    "fields": {
+      "orden": "4",
+      "contenido": "El proceso de producci\u00f3n: la pre-producci\u00f3n",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 89,
+    "fields": {
+      "orden": "5",
+      "contenido": "Producci\u00f3n, equipo t\u00e9cnico, rodaje",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 90,
+    "fields": {
+      "orden": "6",
+      "contenido": "Postproducci\u00f3n",
+      "curso": 15
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 91,
+    "fields": {
+      "orden": "1",
+      "contenido": "Conceptos B\u00e1sicos",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 92,
+    "fields": {
+      "orden": "2",
+      "contenido": "Farmacocin\u00e9tica y Farmacodin\u00e1mica de las drogas.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 93,
+    "fields": {
+      "orden": "3",
+      "contenido": "Prevenci\u00f3n del consumo de drogas: Factores de riesgo y protecci\u00f3n.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 94,
+    "fields": {
+      "orden": "4",
+      "contenido": "Recursos personales protectores ante el consumo.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 95,
+    "fields": {
+      "orden": "5",
+      "contenido": "Evaluaci\u00f3n del consumo de sustancias y tratamiento en adiciones.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 96,
+    "fields": {
+      "orden": "6",
+      "contenido": "Legislaci\u00f3n y drogas en Ecuador.",
+      "curso": 16
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 97,
+    "fields": {
+      "orden": "1",
+      "contenido": "Las dimensiones de las competencias medi\u00e1ticas.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 98,
+    "fields": {
+      "orden": "2",
+      "contenido": "Un vistazo a las TIC.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 99,
+    "fields": {
+      "orden": "3",
+      "contenido": "Uso de Redes Sociales.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 100,
+    "fields": {
+      "orden": "4",
+      "contenido": "Herramientas tecnol\u00f3gicas y su utilidad.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 101,
+    "fields": {
+      "orden": "5",
+      "contenido": "Herramientas did\u00e1cticas para crear contenidos digitales.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 102,
+    "fields": {
+      "orden": "6",
+      "contenido": "Tendencias en las TIC: conexi\u00f3n en todas partes y en todo momento.",
+      "curso": 17
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 103,
+    "fields": {
+      "orden": "1",
+      "contenido": "Historia de la teor\u00eda evolutiva.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 104,
+    "fields": {
+      "orden": "2",
+      "contenido": "Bases gen\u00e9ticas de la evoluci\u00f3n.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 105,
+    "fields": {
+      "orden": "3",
+      "contenido": "Fuerzas evolutivas.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 106,
+    "fields": {
+      "orden": "4",
+      "contenido": "Selecci\u00f3n Natural vs. Selecci\u00f3n sexual. Evoluci\u00f3n del sexo.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 107,
+    "fields": {
+      "orden": "5",
+      "contenido": "Procesos macroevolutivos.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 108,
+    "fields": {
+      "orden": "6",
+      "contenido": "Conceptos generales de Filogen\u00e9tica.",
+      "curso": 18
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 109,
+    "fields": {
+      "orden": "1",
+      "contenido": "Microbiolog\u00eda: Generalidades.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 110,
+    "fields": {
+      "orden": "2",
+      "contenido": "T\u00e9cnicas de Cultivo de Microorganismos.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 111,
+    "fields": {
+      "orden": "3",
+      "contenido": "Microbiolog\u00eda Agr\u00edcola parte I.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 112,
+    "fields": {
+      "orden": "4",
+      "contenido": "Microbiolog\u00eda Agr\u00edcola parte II.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 113,
+    "fields": {
+      "orden": "5",
+      "contenido": "Microbiolog\u00eda Ambiental parte I.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 114,
+    "fields": {
+      "orden": "6",
+      "contenido": "Microbiolog\u00eda Ambiental parte II.",
+      "curso": 19
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 115,
+    "fields": {
+      "orden": "1",
+      "contenido": "Entorno emprendedor.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 116,
+    "fields": {
+      "orden": "2",
+      "contenido": "Emprendedor.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 117,
+    "fields": {
+      "orden": "3",
+      "contenido": "Diagn\u00f3stico del entorno.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 118,
+    "fields": {
+      "orden": "4",
+      "contenido": "Innovaci\u00f3n.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 119,
+    "fields": {
+      "orden": "5",
+      "contenido": "Ideas creativas e innovadoras.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 120,
+    "fields": {
+      "orden": "6",
+      "contenido": "Selecci\u00f3n de ideas.",
+      "curso": 20
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 121,
+    "fields": {
+      "orden": "1",
+      "contenido": "C\u00f3mo funciona la econom\u00eda.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 122,
+    "fields": {
+      "orden": "2",
+      "contenido": "Modelos econ\u00f3micos: Flujo circular de la econom\u00eda.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 123,
+    "fields": {
+      "orden": "3",
+      "contenido": "Las fuerzas del mercado: La demanda y oferta (parte I).",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 124,
+    "fields": {
+      "orden": "4",
+      "contenido": "Las fuerzas del mercado: La demanda y oferta (parteII).",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 125,
+    "fields": {
+      "orden": "5",
+      "contenido": "Econom\u00eda familiar: presupuesto familiar - gastos - ingresos - ahorro.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 126,
+    "fields": {
+      "orden": "6",
+      "contenido": "C\u00f3mo y porqu\u00e9 crece o decrece un pa\u00eds.",
+      "curso": 21
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 127,
+    "fields": {
+      "orden": "1",
+      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 1).",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 128,
+    "fields": {
+      "orden": "2",
+      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 2).",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 129,
+    "fields": {
+      "orden": "3",
+      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 1).",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 130,
+    "fields": {
+      "orden": "4",
+      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 2).",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 131,
+    "fields": {
+      "orden": "5",
+      "contenido": "Plantillas y procesamiento de la informaci\u00f3n (parte 1)",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 132,
+    "fields": {
+      "orden": "6",
+      "contenido": "Plantillas y procesamiento de la informaci\u00f3n (parte 2)",
+      "curso": 22
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 133,
+    "fields": {
+      "orden": "1",
+      "contenido": "El origen del hombre: creaci\u00f3n y evoluci\u00f3n.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 134,
+    "fields": {
+      "orden": "2",
+      "contenido": "El hombre es m\u00e1s que cuerpo y m\u00e1s que psique.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 135,
+    "fields": {
+      "orden": "3",
+      "contenido": "La interioridad humana: la persona.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 136,
+    "fields": {
+      "orden": "4",
+      "contenido": "La libertad.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 137,
+    "fields": {
+      "orden": "5",
+      "contenido": "El dolor y la muerte. La vida y su sentido: la plenitud humana.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 138,
+    "fields": {
+      "orden": "6",
+      "contenido": "El humanismo de Cristo.",
+      "curso": 23
+    }
+  },
+  {
+    "model": "cursosHandler.contenidos",
+    "pk": 139,
+    "fields": {
+      "orden": "7",
+      "contenido": "Principios de una buena gr\u00e1fica.",
+      "curso": 1
+    }
+  }
+]
