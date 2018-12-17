@@ -1,18 +1,18 @@
 {
   "default": {
-    "ENGINE": "django.db.backends.mysql",
-    "NAME": "chatbot_plan",
-    "USER":"root",
-    "PASSWORD":"rootroot",
-    "HOST":"127.0.0.1",
-    "PORT":"3306"
+  "ENGINE": "django.db.backends.mysql",
+  "NAME": "chatbot_plan",
+  "USER": "root",
+  "PASSWORD": "rootroot",
+  "HOST": "127.0.0.1",
+  "PORT": "3306"
   },
-  "opencampus": {
-    "ENGINE": "django.db.backends.mysql",
-    "NAME": "open_campus_db",
-    "USER":"root",
-    "PASSWORD":"rootroot",
-    "HOST":"127.0.0.1",
-    "PORT":"3306"
+  "open_campus": {
+  "ENGINE": "django.db.backends.mysql",
+  "NAME": "open_campus_db",
+  "USER":"root",
+  "PASSWORD":"rootroot",
+  "HOST":"127.0.0.1",
+  "PORT":"3306"
   }
 }

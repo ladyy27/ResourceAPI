@@ -3,4 +3,4 @@ from RESTAPI.models import *
 
 # Register your models here.
 
-admin.site.register (Planes1)
+admin.site.register (Planes)
