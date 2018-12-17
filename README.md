@@ -9,6 +9,6 @@ This app supports the connection to multiple databases. Every database configura
 * Curricula
 
 # TODO
-* Añadir los datos de carga para curricula
-* Probar la migracion
-* Crear guia de despliegue
+* Añadir los datos de carga para curricula, DONE
+* Probar la migracion, DONE
+* Crear guia de despliegue, DONE
