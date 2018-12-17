@@ -12,8 +12,6 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 
 import os
 import json
-from decouple import config, Csv
-import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -23,12 +21,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = '9^hfs=h=_p(rl%+=mpi$2c*g*8s1y_v5xy0fmbfgp&-v7*c&ib'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=False, cast=bool)
+DEBUG = True
 
-ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -80,24 +78,21 @@ WSGI_APPLICATION = 'ResourceAPI.wsgi.application'
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 
-# with open('ResourceAPI/multidb.json') as f:
-#     data = json.load(f)
-#
-# print (data)
+with open('ResourceAPI/multidb.json') as f:
+    data = json.load(f)
 
-if DEBUG:
-    DATABASES = {
-        'default': dj_database_url.config(
-            default=config('DATABASE_URL_DEV'))
+#print (data)
+
+DATABASES = data
+
+"""
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
-else:
-    DATABASES = {
-        'default': dj_database_url.config(
-            default=config('DATABASE_URL'))
-        # Replace in .env
-        # For MYSQL mysql://USER:PASSWORD@HOST:PORT/NAME
-        # For Sqlite sqlite:///db.sqlite3
-    }
+}
+"""
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
@@ -123,7 +118,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America/Guayaquil'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 

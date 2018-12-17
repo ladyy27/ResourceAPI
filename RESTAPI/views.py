@@ -1,30 +1,54 @@
 from django.shortcuts import render
 from django.db import connection
+from django.db.models import Q
 
 # Create your views here.
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from .serializers import *
 from rest_framework import status
+from django.http import HttpResponse, JsonResponse
 from rest_framework.renderers import JSONRenderer
 
 import io
 import json
 
+class Coincidentes(APIView):
+    def get(self, request, component):
+        print(component)
+        asignatura = 'asignatura'
+        #query1 = Planes.objects.filter(p = asignatura).values()
+        query = Planes.objects.filter(o__startswith= component).values()
+        #query = Planes.objects.raw('SELECT * FROM planes1 WHERE p = %s and o LIKE %s',[asignatura,component])
+        print(query)
+        return Response(query)
+
 def getCode(component):
     with connection.cursor() as cursor:
-        codequery = "SELECT s FROM planes1 WHERE p = 'asignatura' AND o LIKE '" + component + "%'"
+        codequery = "SELECT s FROM planes1 WHERE p = 'asignatura' AND o LIKE '" + component + "'"
+        print (codequery)
         cursor.execute(codequery)
         row = cursor.fetchone()
         if row:
             code = row[0]
+            print("CODIGO= " + code)
         else:
             code = ""
     return code
+
+class CreditsComponent1(APIView):
+    def get(self, request, component):
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='creditos', s=code)
+        print(creditsquery)
+        return Response(creditsquery)
 
 class CreditsComponent(APIView):
     def get(self, request, component):
         with connection.cursor() as cursor:
             code = getCode(component)
+            print(code)
             data = []
             if code:
                 creditsquery = "SELECT o FROM planes1 WHERE p = 'creditos' AND s = '" + code + "'"
@@ -35,6 +59,52 @@ class CreditsComponent(APIView):
             else:
                 data.append({'answer': 'No he encontrado la asignatura. Inténtalo nuevamente'})
         return Response(data)
+
+class TitulacionComponent(APIView):
+    def get(self, request, component):
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='responsable', s=code)
+        print(creditsquery)
+        return Response(creditsquery)
+
+class TipoComponent(APIView):
+    def get(self, request, component):
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='grupo_creditos', s=code)
+        print(creditsquery)
+        return Response(creditsquery)
+
+class SeccionComponent(APIView):
+    def get(self, request, component):
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='seccion', s=code)
+        print(creditsquery)
+        return Response(creditsquery)
+
+class DepartamentoComponent(APIView):
+    def get(self, request, component):
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='departamento', s=code)
+        print(creditsquery)
+        return Response(creditsquery)
+
+class PeriodoComponent(APIView):
+    def get(self, request, component):
+        data = []
+        code = getCode(component)
+        print(code)
+        creditsquery = Planes.objects.values('o').filter(p='periodo', s=code)
+        cad = str(creditsquery[0]['o'])
+        if cad.find("Oct"):
+            data.append({'o': 'Ciclo impar: Octubre/Febrero'})
+        else:
+            data.append({'o': 'Ciclo par: Abril/Agosto'})
+        return Response(data)
+
 
 class SubjectsListByRelatedWords(APIView):
     def get(self, request, component):
@@ -47,8 +117,6 @@ class SubjectsListByRelatedWords(APIView):
                 code = row[0]
                 data.append({'code': code})
         return Response(data)
-
-
 
 
 class AnswerbyIntent(APIView):
