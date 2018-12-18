@@ -6,7 +6,7 @@ from django.db.models import Q
 from .models import *
 from rest_framework.views import APIView
 from rest_framework.response import Response
-#from .serializers import *
+# from .serializers import *
 from rest_framework import status
 from django.http import HttpResponse, JsonResponse
 from rest_framework.renderers import JSONRenderer
@@ -18,7 +18,7 @@ import json
 def getCode(component):
     with connection.cursor() as cursor:
         codequery = "SELECT s FROM planes1 WHERE p = 'asignatura' AND o LIKE '" + component + "'"
-        print (codequery)
+        print(codequery)
         cursor.execute(codequery)
         row = cursor.fetchone()
         if row:
@@ -28,6 +28,7 @@ def getCode(component):
             code = ""
     return code
 
+
 class CreditsComponent1(APIView):
     def get(self, request, component):
         code = getCode(component)
@@ -35,6 +36,7 @@ class CreditsComponent1(APIView):
         creditsquery = Planes.objects.values('o').filter(p='creditos', s=code)
         print(creditsquery)
         return Response(creditsquery)
+
 
 class CreditsComponent(APIView):
     def get(self, request, component):
@@ -52,6 +54,7 @@ class CreditsComponent(APIView):
                 data.append({'answer': 'No he encontrado la asignatura. Inténtalo nuevamente'})
         return Response(data)
 
+
 class TitulacionComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
@@ -59,6 +62,7 @@ class TitulacionComponent(APIView):
         creditsquery = Planes.objects.values('o').filter(p='responsable', s=code)
         print(creditsquery)
         return Response(creditsquery)
+
 
 class TipoComponent(APIView):
     def get(self, request, component):
@@ -68,6 +72,7 @@ class TipoComponent(APIView):
         print(creditsquery)
         return Response(creditsquery)
 
+
 class SeccionComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
@@ -76,6 +81,7 @@ class SeccionComponent(APIView):
         print(creditsquery)
         return Response(creditsquery)
 
+
 class DepartamentoComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
@@ -83,6 +89,7 @@ class DepartamentoComponent(APIView):
         creditsquery = Planes.objects.values('o').filter(p='departamento', s=code)
         print(creditsquery)
         return Response(creditsquery)
+
 
 class PeriodoComponent(APIView):
     def get(self, request, component):
@@ -103,7 +110,7 @@ class SubjectsListByRelatedWords(APIView):
         if request.method == 'GET':
             with connection.cursor() as cursor:
                 data = []
-                codequery = "SELECT s FROM planes1 WHERE p = 'asignatura' AND o LIKE '"+ component +"%'"
+                codequery = "SELECT s FROM planes1 WHERE p = 'asignatura' AND o LIKE '" + component + "%'"
                 cursor.execute(codequery)
                 row = cursor.fetchone()
                 code = row[0]

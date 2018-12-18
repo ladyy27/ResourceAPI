@@ -1,5 +1,6 @@
 from django.db import models
 from datetime import datetime
+from django_mysql.models import Model
 
 
 # Create your models here.
@@ -35,7 +36,7 @@ class Docentes(models.Model):
         return self.nombre
 
 
-class Cursos(models.Model):
+class Cursos(Model):
     id_curso = models.AutoField(primary_key=True)
     cod = models.CharField(max_length=20, null=False, blank=False)
     nombre = models.CharField(max_length=60, null=False)

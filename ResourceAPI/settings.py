@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'RESTAPI.apps.RestapiConfig',
     'rest_framework',
     'cursosHandler.apps.CursoshandlerConfig',
+    'django_mysql'
 ]
 
 MIDDLEWARE = [
@@ -82,13 +83,16 @@ with open('ResourceAPI/multidb.json') as f:
 
 # print (data)
 
-DATABASES = data
+# DATABASES = data
 
+MYSQL_DB = dj_database_url.config(
+    default=config('DATABASE_URL'))
+MYSQL_DB['OPTIONS'] = ({'init_command': "SET sql_mode='STRICT_TRANS_TABLES', innodb_strict_mode=1",
+                        'charset': 'utf8mb4'})
 
-# DATABASES = {
-#     'default': dj_database_url.config(
-#         default=config('DATABASE_URL'))
-# }
+DATABASES = {
+    'default': MYSQL_DB
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
