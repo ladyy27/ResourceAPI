@@ -29,10 +29,11 @@ def duracion_curso(request):
         serializer = CursosSerializer(data=request.data)
         if serializer.is_valid():
             query = Cursos.objects.values("nombre", "duracion", "esfuerzo_estimado").get(
-                nombre__contains=serializer.validated_data["curso"])
+                nombre__contains=serializer.validated_data["curso"].upper())
             if len(query) == 0:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
+                query["nombre"] = query["nombre"].capitalize()
                 return Response(query, status=status.HTTP_200_OK)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
@@ -48,11 +49,12 @@ def temas_curso(request):
         serializer = CursosSerializer(data=request.data)
         if serializer.is_valid():
             query = Cursos.objects.values("nombre", "contenidos__contenido").filter(
-                nombre__contains=serializer.validated_data["curso"]).order_by("contenidos__orden")
+                nombre__contains=serializer.validated_data["curso"].upper()).order_by("contenidos__orden")
             contenidos = list(map(lambda x: x["contenidos__contenido"], query))
             if len(query) == 0:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
+                query[0]["nombre"] = query[0]["nombre"].capitalize()
                 resp = {"nombre": query[0]["nombre"],
                         "contenidos": contenidos}
                 return Response(resp, status=status.HTTP_200_OK)
@@ -70,17 +72,21 @@ def profesor_curso(request):
         serializer = CursosSerializer(data=request.data)
         if serializer.is_valid():
             query = Cursos.objects.values("nombre", "docentes__nombre").filter(
-                nombre__contains=serializer.validated_data["curso"])
+                nombre__contains=serializer.validated_data["curso"].upper())
             print(query)
             if len(query) >= 2:
                 docentes = list(map(lambda x: x["docentes__nombre"], query))
+                query[0]["nombre"] = query[0]["nombre"].capitalize()
                 resp = {"nombre": query[0]["nombre"],
                         "docentes": docentes}
                 return Response(resp, status=status.HTTP_200_OK)
             elif len(query) == 0:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
-                return Response(query, status=status.HTTP_200_OK)
+                query[0]["nombre"] = query[0]["nombre"].capitalize()
+                resp = {"nombre": query[0]["nombre"],
+                        "docentes": query[0]["docentes__nombre"]}
+                return Response(resp, status=status.HTTP_200_OK)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
@@ -96,11 +102,12 @@ def info_curso(request):
         if serializer.is_valid():
             try:
                 query = Cursos.objects.values("nombre", "descripcion").get(
-                    nombre__contains=serializer.validated_data["curso"])
+                    nombre__contains=serializer.validated_data["curso"].upper())
                 print(query)
             except Cursos.DoesNotExist:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
+                query["nombre"] = query["nombre"].capitalize()
                 resp = {"nombre": query["nombre"],
                         "descripcion": query["descripcion"]}
                 return Response(resp, status=status.HTTP_200_OK)

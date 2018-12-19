@@ -22,12 +22,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '9^hfs=h=_p(rl%+=mpi$2c*g*8s1y_v5xy0fmbfgp&-v7*c&ib'
+SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 
 # Application definition
 
@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'RESTAPI.apps.RestapiConfig',
     'rest_framework',
     'cursosHandler.apps.CursoshandlerConfig',
-    'django_mysql'
 ]
 
 MIDDLEWARE = [
@@ -85,13 +84,10 @@ with open('ResourceAPI/multidb.json') as f:
 
 # DATABASES = data
 
-MYSQL_DB = dj_database_url.config(
-    default=config('DATABASE_URL'))
-MYSQL_DB['OPTIONS'] = ({'init_command': "SET sql_mode='STRICT_TRANS_TABLES', innodb_strict_mode=1",
-                        'charset': 'utf8mb4'})
 
 DATABASES = {
-    'default': MYSQL_DB
+    'default': dj_database_url.config(
+        default=config('DATABASE_URL'))
 }
 
 # Password validation
@@ -129,3 +125,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = config('STATIC_ROOT')
