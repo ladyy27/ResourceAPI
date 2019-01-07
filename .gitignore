@@ -1,5 +1,8 @@
+*.pyc
 .idea/*.*
-/cursosHandler/migrations/*.*
+.env
+cursosHandler/migrations/*.*
+RESTAPI/migrations/*.*
 venv/
 
 ### OSX ###
