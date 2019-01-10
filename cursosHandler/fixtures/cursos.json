@@ -1642,7 +1642,7 @@
     "pk": 1,
     "fields": {
       "orden": "1",
-      "contenido": "Estructura de los datos y metadata.",
+      "contenido": "Estructura de los datos y metadata",
       "curso": 1
     }
   },
@@ -1651,7 +1651,7 @@
     "pk": 2,
     "fields": {
       "orden": "2",
-      "contenido": "Generaci\u00f3n de variables.",
+      "contenido": "Generaci\u00f3n de variables",
       "curso": 1
     }
   },
@@ -1660,7 +1660,7 @@
     "pk": 3,
     "fields": {
       "orden": "3",
-      "contenido": "Herramientas de organizaci\u00f3n y manejo.",
+      "contenido": "Herramientas de organizaci\u00f3n y manejo",
       "curso": 1
     }
   },
@@ -1669,7 +1669,7 @@
     "pk": 4,
     "fields": {
       "orden": "4",
-      "contenido": "Manipulaci\u00f3n de datos.",
+      "contenido": "Manipulaci\u00f3n de datos",
       "curso": 1
     }
   },
@@ -1678,7 +1678,7 @@
     "pk": 5,
     "fields": {
       "orden": "5",
-      "contenido": "Representaci\u00f3n gr\u00e1fica.",
+      "contenido": "Representaci\u00f3n gr\u00e1fica",
       "curso": 1
     }
   },
@@ -1687,7 +1687,7 @@
     "pk": 6,
     "fields": {
       "orden": "6",
-      "contenido": "Uso de Excel para graficar.",
+      "contenido": "Uso de Excel para graficar",
       "curso": 1
     }
   },
@@ -1696,7 +1696,7 @@
     "pk": 7,
     "fields": {
       "orden": "1",
-      "contenido": "Sexualidad.",
+      "contenido": "Sexualidad",
       "curso": 2
     }
   },
@@ -1705,7 +1705,7 @@
     "pk": 8,
     "fields": {
       "orden": "2",
-      "contenido": "Diversidad sexual.",
+      "contenido": "Diversidad sexual",
       "curso": 2
     }
   },
@@ -1714,7 +1714,7 @@
     "pk": 9,
     "fields": {
       "orden": "3",
-      "contenido": "Derechos sexuales y reproductivos.",
+      "contenido": "Derechos sexuales y reproductivos",
       "curso": 2
     }
   },
@@ -1723,7 +1723,7 @@
     "pk": 10,
     "fields": {
       "orden": "4",
-      "contenido": "El cuerpo y los \u00f3rganos sexuales reproductivos.",
+      "contenido": "El cuerpo y los \u00f3rganos sexuales reproductivos",
       "curso": 2
     }
   },
@@ -1732,7 +1732,7 @@
     "pk": 11,
     "fields": {
       "orden": "5",
-      "contenido": "Tecnolog\u00eda anticonceptiva.",
+      "contenido": "Tecnolog\u00eda anticonceptiva",
       "curso": 2
     }
   },
@@ -1741,7 +1741,7 @@
     "pk": 12,
     "fields": {
       "orden": "6",
-      "contenido": "Enfermedades de transmisi\u00f3n sexual.",
+      "contenido": "Enfermedades de transmisi\u00f3n sexual",
       "curso": 2
     }
   },
@@ -1750,7 +1750,7 @@
     "pk": 13,
     "fields": {
       "orden": "1",
-      "contenido": "El vino, conceptos y clasificaci\u00f3n.",
+      "contenido": "El vino, conceptos y clasificaci\u00f3n",
       "curso": 3
     }
   },
@@ -1759,7 +1759,7 @@
     "pk": 14,
     "fields": {
       "orden": "2",
-      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte I).",
+      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte I)",
       "curso": 3
     }
   },
@@ -1768,7 +1768,7 @@
     "pk": 15,
     "fields": {
       "orden": "3",
-      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte II).",
+      "contenido": "Elaboraci\u00f3n de vino, proceso general de producci\u00f3n (Parte II)",
       "curso": 3
     }
   },
@@ -1777,7 +1777,7 @@
     "pk": 16,
     "fields": {
       "orden": "4",
-      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte I).",
+      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte I)",
       "curso": 3
     }
   },
@@ -1786,7 +1786,7 @@
     "pk": 17,
     "fields": {
       "orden": "5",
-      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte II).",
+      "contenido": "Elaboraci\u00f3n de cerveza (Fundamentos, parte II)",
       "curso": 3
     }
   },
@@ -1795,7 +1795,7 @@
     "pk": 18,
     "fields": {
       "orden": "6",
-      "contenido": "Elaboraci\u00f3n artesanal de cerveza.",
+      "contenido": "Elaboraci\u00f3n artesanal de cerveza",
       "curso": 3
     }
   },
@@ -1804,7 +1804,7 @@
     "pk": 19,
     "fields": {
       "orden": "1",
-      "contenido": "Introducci\u00f3n al estudio sobre la historia del uso general de drogas vegetales.",
+      "contenido": "Introducci\u00f3n al estudio sobre la historia del uso general de drogas vegetales",
       "curso": 4
     }
   },
@@ -1813,7 +1813,7 @@
     "pk": 20,
     "fields": {
       "orden": "2",
-      "contenido": "Plantas pueblos y continentes.",
+      "contenido": "Plantas pueblos y continentes",
       "curso": 4
     }
   },
@@ -1822,7 +1822,7 @@
     "pk": 21,
     "fields": {
       "orden": "3",
-      "contenido": "Historia del uso de drogas vegetales.",
+      "contenido": "Historia del uso de drogas vegetales",
       "curso": 4
     }
   },
@@ -1831,7 +1831,7 @@
     "pk": 22,
     "fields": {
       "orden": "4",
-      "contenido": "Uso de plantas en Am\u00e9rica Precolombina.",
+      "contenido": "Uso de plantas en Am\u00e9rica Precolombina",
       "curso": 4
     }
   },
@@ -1858,7 +1858,7 @@
     "pk": 25,
     "fields": {
       "orden": "1",
-      "contenido": "Contaminaci\u00f3n del aire.",
+      "contenido": "Contaminaci\u00f3n del aire",
       "curso": 5
     }
   },
@@ -1867,7 +1867,7 @@
     "pk": 26,
     "fields": {
       "orden": "2",
-      "contenido": "Contaminaci\u00f3n del agua.",
+      "contenido": "Contaminaci\u00f3n del agua",
       "curso": 5
     }
   },
@@ -1876,7 +1876,7 @@
     "pk": 27,
     "fields": {
       "orden": "3",
-      "contenido": "Contaminaci\u00f3n del suelo.",
+      "contenido": "Contaminaci\u00f3n del suelo",
       "curso": 5
     }
   },
@@ -1885,7 +1885,7 @@
     "pk": 28,
     "fields": {
       "orden": "4",
-      "contenido": "Contaminaci\u00f3n ac\u00fastica.",
+      "contenido": "Contaminaci\u00f3n ac\u00fastica",
       "curso": 5
     }
   },
@@ -1894,7 +1894,7 @@
     "pk": 29,
     "fields": {
       "orden": "5",
-      "contenido": "Contaminaci\u00f3n por residuos s\u00f3lidos.",
+      "contenido": "Contaminaci\u00f3n por residuos s\u00f3lidos",
       "curso": 5
     }
   },
@@ -1903,7 +1903,7 @@
     "pk": 30,
     "fields": {
       "orden": "6",
-      "contenido": "Calentamiento global.",
+      "contenido": "Calentamiento global",
       "curso": 5
     }
   },
@@ -1912,7 +1912,7 @@
     "pk": 31,
     "fields": {
       "orden": "1",
-      "contenido": "Fundamentos del desarrollo comunitario.",
+      "contenido": "Fundamentos del desarrollo comunitario",
       "curso": 6
     }
   },
@@ -1921,7 +1921,7 @@
     "pk": 32,
     "fields": {
       "orden": "2",
-      "contenido": "Extensi\u00f3n rural y extensionista.",
+      "contenido": "Extensi\u00f3n rural y extensionista",
       "curso": 6
     }
   },
@@ -1930,7 +1930,7 @@
     "pk": 33,
     "fields": {
       "orden": "3",
-      "contenido": "Diagn\u00f3stico, Seguimiento y Evaluaci\u00f3n Participativa.",
+      "contenido": "Diagn\u00f3stico, Seguimiento y Evaluaci\u00f3n Participativa",
       "curso": 6
     }
   },
@@ -1939,7 +1939,7 @@
     "pk": 34,
     "fields": {
       "orden": "4",
-      "contenido": "Estudio de base participativo.",
+      "contenido": "Estudio de base participativo",
       "curso": 6
     }
   },
@@ -1948,7 +1948,7 @@
     "pk": 35,
     "fields": {
       "orden": "5",
-      "contenido": "Herramientas (parte 1).",
+      "contenido": "Herramientas (parte 1)",
       "curso": 6
     }
   },
@@ -1957,7 +1957,7 @@
     "pk": 36,
     "fields": {
       "orden": "6",
-      "contenido": "Herramientas (parte 2).",
+      "contenido": "Herramientas (parte 2)",
       "curso": 6
     }
   },
@@ -1966,7 +1966,7 @@
     "pk": 37,
     "fields": {
       "orden": "1",
-      "contenido": "Soberan\u00eda y Seguridad Alimentaria.",
+      "contenido": "Soberan\u00eda y Seguridad Alimentaria",
       "curso": 7
     }
   },
@@ -1975,7 +1975,7 @@
     "pk": 38,
     "fields": {
       "orden": "2",
-      "contenido": "Alimentos.",
+      "contenido": "Alimentos",
       "curso": 7
     }
   },
@@ -1984,7 +1984,7 @@
     "pk": 39,
     "fields": {
       "orden": "3",
-      "contenido": "Otros tipos de alimentos.",
+      "contenido": "Otros tipos de alimentos",
       "curso": 7
     }
   },
@@ -1993,7 +1993,7 @@
     "pk": 40,
     "fields": {
       "orden": "4",
-      "contenido": "Inocuidad alimentaria.",
+      "contenido": "Inocuidad alimentaria",
       "curso": 7
     }
   },
@@ -2002,7 +2002,7 @@
     "pk": 41,
     "fields": {
       "orden": "5",
-      "contenido": "Alimentaci\u00f3n Saludable.",
+      "contenido": "Alimentaci\u00f3n Saludable",
       "curso": 7
     }
   },
@@ -2011,7 +2011,7 @@
     "pk": 42,
     "fields": {
       "orden": "6",
-      "contenido": "Etiquetado de los alimentos.",
+      "contenido": "Etiquetado de los alimentos",
       "curso": 7
     }
   },
@@ -2020,7 +2020,7 @@
     "pk": 43,
     "fields": {
       "orden": "1",
-      "contenido": "Conceptos b\u00e1sicos y la importancia de la agricultura familiar.",
+      "contenido": "Conceptos b\u00e1sicos y la importancia de la agricultura familiar",
       "curso": 8
     }
   },
@@ -2038,7 +2038,7 @@
     "pk": 45,
     "fields": {
       "orden": "3",
-      "contenido": "Preparaci\u00f3n de abonos y sustratos.",
+      "contenido": "Preparaci\u00f3n de abonos y sustratos",
       "curso": 8
     }
   },
@@ -2047,7 +2047,7 @@
     "pk": 46,
     "fields": {
       "orden": "4",
-      "contenido": "Propagaci\u00f3n de hortalizas.",
+      "contenido": "Propagaci\u00f3n de hortalizas",
       "curso": 8
     }
   },
@@ -2074,7 +2074,7 @@
     "pk": 49,
     "fields": {
       "orden": "1",
-      "contenido": "Principios de Biorremediaci\u00f3n.",
+      "contenido": "Principios de Biorremediaci\u00f3n",
       "curso": 9
     }
   },
@@ -2083,7 +2083,7 @@
     "pk": 50,
     "fields": {
       "orden": "2",
-      "contenido": "Contaminantes susceptibles a la biorremediaci\u00f3n.",
+      "contenido": "Contaminantes susceptibles a la biorremediaci\u00f3n",
       "curso": 9
     }
   },
@@ -2092,7 +2092,7 @@
     "pk": 51,
     "fields": {
       "orden": "3",
-      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 1.",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 1",
       "curso": 9
     }
   },
@@ -2101,7 +2101,7 @@
     "pk": 52,
     "fields": {
       "orden": "4",
-      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 2.",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n in situ 2",
       "curso": 9
     }
   },
@@ -2110,7 +2110,7 @@
     "pk": 53,
     "fields": {
       "orden": "5",
-      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n ex situ.",
+      "contenido": "T\u00e9cnicas de biorremediaci\u00f3n ex situ",
       "curso": 9
     }
   },
@@ -2137,7 +2137,7 @@
     "pk": 56,
     "fields": {
       "orden": "2",
-      "contenido": "Bases del TPS (1).",
+      "contenido": "Bases del TPS (1)",
       "curso": 10
     }
   },
@@ -2146,7 +2146,7 @@
     "pk": 57,
     "fields": {
       "orden": "3",
-      "contenido": "Bases del TPS (2).",
+      "contenido": "Bases del TPS (2)",
       "curso": 10
     }
   },
@@ -2155,7 +2155,7 @@
     "pk": 58,
     "fields": {
       "orden": "4",
-      "contenido": "Pilares del TPS.",
+      "contenido": "Pilares del TPS",
       "curso": 10
     }
   },
@@ -2164,7 +2164,7 @@
     "pk": 59,
     "fields": {
       "orden": "5",
-      "contenido": "Coraz\u00f3n del TPS.",
+      "contenido": "Coraz\u00f3n del TPS",
       "curso": 10
     }
   },
@@ -2173,7 +2173,7 @@
     "pk": 60,
     "fields": {
       "orden": "6",
-      "contenido": "Tejado del TPS.",
+      "contenido": "Tejado del TPS",
       "curso": 10
     }
   },
@@ -2182,7 +2182,7 @@
     "pk": 61,
     "fields": {
       "orden": "1",
-      "contenido": "Fundamentos del manejo del recurso suelo.",
+      "contenido": "Fundamentos del manejo del recurso suelo",
       "curso": 11
     }
   },
@@ -2191,7 +2191,7 @@
     "pk": 62,
     "fields": {
       "orden": "2",
-      "contenido": "Suelos de monta\u00f1a y agricultura.",
+      "contenido": "Suelos de monta\u00f1a y agricultura",
       "curso": 11
     }
   },
@@ -2200,7 +2200,7 @@
     "pk": 63,
     "fields": {
       "orden": "3",
-      "contenido": "Calidad de los suelos.",
+      "contenido": "Calidad de los suelos",
       "curso": 11
     }
   },
@@ -2209,7 +2209,7 @@
     "pk": 64,
     "fields": {
       "orden": "4",
-      "contenido": "Cambio clim\u00e1tico.",
+      "contenido": "Cambio clim\u00e1tico",
       "curso": 11
     }
   },
@@ -2218,7 +2218,7 @@
     "pk": 65,
     "fields": {
       "orden": "5",
-      "contenido": "Desertificaci\u00f3n y erosi\u00f3n del suelo.",
+      "contenido": "Desertificaci\u00f3n y erosi\u00f3n del suelo",
       "curso": 11
     }
   },
@@ -2227,7 +2227,7 @@
     "pk": 66,
     "fields": {
       "orden": "6",
-      "contenido": "Conservaci\u00f3n de los suelos.",
+      "contenido": "Conservaci\u00f3n de los suelos",
       "curso": 11
     }
   },
@@ -2236,7 +2236,7 @@
     "pk": 67,
     "fields": {
       "orden": "1",
-      "contenido": "Introducci\u00f3n a la econom\u00eda de recursos naturales.",
+      "contenido": "Introducci\u00f3n a la econom\u00eda de recursos naturales",
       "curso": 12
     }
   },
@@ -2245,7 +2245,7 @@
     "pk": 68,
     "fields": {
       "orden": "2",
-      "contenido": "La tragedia de los comunes.",
+      "contenido": "La tragedia de los comunes",
       "curso": 12
     }
   },
@@ -2254,7 +2254,7 @@
     "pk": 69,
     "fields": {
       "orden": "3",
-      "contenido": "Econom\u00eda ambiental.",
+      "contenido": "Econom\u00eda ambiental",
       "curso": 12
     }
   },
@@ -2263,7 +2263,7 @@
     "pk": 70,
     "fields": {
       "orden": "4",
-      "contenido": "Econom\u00eda ecol\u00f3gica.",
+      "contenido": "Econom\u00eda ecol\u00f3gica",
       "curso": 12
     }
   },
@@ -2272,7 +2272,7 @@
     "pk": 71,
     "fields": {
       "orden": "5",
-      "contenido": "Econom\u00eda pol\u00edtica y econom\u00eda humana.",
+      "contenido": "Econom\u00eda pol\u00edtica y econom\u00eda humana",
       "curso": 12
     }
   },
@@ -2281,7 +2281,7 @@
     "pk": 72,
     "fields": {
       "orden": "6",
-      "contenido": "Teor\u00eda del decrecimiento.",
+      "contenido": "Teor\u00eda del decrecimiento",
       "curso": 12
     }
   },
@@ -2290,7 +2290,7 @@
     "pk": 73,
     "fields": {
       "orden": "1",
-      "contenido": "Introducci\u00f3n a la l\u00f3gica de la programaci\u00f3n.",
+      "contenido": "Introducci\u00f3n a la l\u00f3gica de la programaci\u00f3n",
       "curso": 13
     }
   },
@@ -2299,7 +2299,7 @@
     "pk": 74,
     "fields": {
       "orden": "2",
-      "contenido": "Naturaleza de los datos.",
+      "contenido": "Naturaleza de los datos",
       "curso": 13
     }
   },
@@ -2308,7 +2308,7 @@
     "pk": 75,
     "fields": {
       "orden": "3",
-      "contenido": "Conceptos y ejemplos de algoritmos.",
+      "contenido": "Conceptos y ejemplos de algoritmos",
       "curso": 13
     }
   },
@@ -2317,7 +2317,7 @@
     "pk": 76,
     "fields": {
       "orden": "4",
-      "contenido": "Miniespecificaciones - estructuras de decisi\u00f3n y bucles.",
+      "contenido": "Miniespecificaciones - estructuras de decisi\u00f3n y bucles",
       "curso": 13
     }
   },
@@ -2326,7 +2326,7 @@
     "pk": 77,
     "fields": {
       "orden": "5",
-      "contenido": "Uso de diagramas de flujo.",
+      "contenido": "Uso de diagramas de flujo",
       "curso": 13
     }
   },
@@ -2335,7 +2335,7 @@
     "pk": 78,
     "fields": {
       "orden": "6",
-      "contenido": "Desarrollo de problemas de programaci\u00f3n.",
+      "contenido": "Desarrollo de problemas de programaci\u00f3n",
       "curso": 13
     }
   },
@@ -2461,7 +2461,7 @@
     "pk": 92,
     "fields": {
       "orden": "2",
-      "contenido": "Farmacocin\u00e9tica y Farmacodin\u00e1mica de las drogas.",
+      "contenido": "Farmacocin\u00e9tica y Farmacodin\u00e1mica de las drogas",
       "curso": 16
     }
   },
@@ -2470,7 +2470,7 @@
     "pk": 93,
     "fields": {
       "orden": "3",
-      "contenido": "Prevenci\u00f3n del consumo de drogas: Factores de riesgo y protecci\u00f3n.",
+      "contenido": "Prevenci\u00f3n del consumo de drogas: Factores de riesgo y protecci\u00f3n",
       "curso": 16
     }
   },
@@ -2479,7 +2479,7 @@
     "pk": 94,
     "fields": {
       "orden": "4",
-      "contenido": "Recursos personales protectores ante el consumo.",
+      "contenido": "Recursos personales protectores ante el consumo",
       "curso": 16
     }
   },
@@ -2488,7 +2488,7 @@
     "pk": 95,
     "fields": {
       "orden": "5",
-      "contenido": "Evaluaci\u00f3n del consumo de sustancias y tratamiento en adiciones.",
+      "contenido": "Evaluaci\u00f3n del consumo de sustancias y tratamiento en adiciones",
       "curso": 16
     }
   },
@@ -2497,7 +2497,7 @@
     "pk": 96,
     "fields": {
       "orden": "6",
-      "contenido": "Legislaci\u00f3n y drogas en Ecuador.",
+      "contenido": "Legislaci\u00f3n y drogas en Ecuador",
       "curso": 16
     }
   },
@@ -2506,7 +2506,7 @@
     "pk": 97,
     "fields": {
       "orden": "1",
-      "contenido": "Las dimensiones de las competencias medi\u00e1ticas.",
+      "contenido": "Las dimensiones de las competencias medi\u00e1ticas",
       "curso": 17
     }
   },
@@ -2515,7 +2515,7 @@
     "pk": 98,
     "fields": {
       "orden": "2",
-      "contenido": "Un vistazo a las TIC.",
+      "contenido": "Un vistazo a las TIC",
       "curso": 17
     }
   },
@@ -2524,7 +2524,7 @@
     "pk": 99,
     "fields": {
       "orden": "3",
-      "contenido": "Uso de Redes Sociales.",
+      "contenido": "Uso de Redes Sociales",
       "curso": 17
     }
   },
@@ -2533,7 +2533,7 @@
     "pk": 100,
     "fields": {
       "orden": "4",
-      "contenido": "Herramientas tecnol\u00f3gicas y su utilidad.",
+      "contenido": "Herramientas tecnol\u00f3gicas y su utilidad",
       "curso": 17
     }
   },
@@ -2542,7 +2542,7 @@
     "pk": 101,
     "fields": {
       "orden": "5",
-      "contenido": "Herramientas did\u00e1cticas para crear contenidos digitales.",
+      "contenido": "Herramientas did\u00e1cticas para crear contenidos digitales",
       "curso": 17
     }
   },
@@ -2551,7 +2551,7 @@
     "pk": 102,
     "fields": {
       "orden": "6",
-      "contenido": "Tendencias en las TIC: conexi\u00f3n en todas partes y en todo momento.",
+      "contenido": "Tendencias en las TIC: conexi\u00f3n en todas partes y en todo momento",
       "curso": 17
     }
   },
@@ -2560,7 +2560,7 @@
     "pk": 103,
     "fields": {
       "orden": "1",
-      "contenido": "Historia de la teor\u00eda evolutiva.",
+      "contenido": "Historia de la teor\u00eda evolutiva",
       "curso": 18
     }
   },
@@ -2569,7 +2569,7 @@
     "pk": 104,
     "fields": {
       "orden": "2",
-      "contenido": "Bases gen\u00e9ticas de la evoluci\u00f3n.",
+      "contenido": "Bases gen\u00e9ticas de la evoluci\u00f3n",
       "curso": 18
     }
   },
@@ -2578,7 +2578,7 @@
     "pk": 105,
     "fields": {
       "orden": "3",
-      "contenido": "Fuerzas evolutivas.",
+      "contenido": "Fuerzas evolutivas",
       "curso": 18
     }
   },
@@ -2587,7 +2587,7 @@
     "pk": 106,
     "fields": {
       "orden": "4",
-      "contenido": "Selecci\u00f3n Natural vs. Selecci\u00f3n sexual. Evoluci\u00f3n del sexo.",
+      "contenido": "Selecci\u00f3n Natural vs. Selecci\u00f3n sexual. Evoluci\u00f3n del sexo",
       "curso": 18
     }
   },
@@ -2596,7 +2596,7 @@
     "pk": 107,
     "fields": {
       "orden": "5",
-      "contenido": "Procesos macroevolutivos.",
+      "contenido": "Procesos macroevolutivos",
       "curso": 18
     }
   },
@@ -2605,7 +2605,7 @@
     "pk": 108,
     "fields": {
       "orden": "6",
-      "contenido": "Conceptos generales de Filogen\u00e9tica.",
+      "contenido": "Conceptos generales de Filogen\u00e9tica",
       "curso": 18
     }
   },
@@ -2614,7 +2614,7 @@
     "pk": 109,
     "fields": {
       "orden": "1",
-      "contenido": "Microbiolog\u00eda: Generalidades.",
+      "contenido": "Microbiolog\u00eda: Generalidades",
       "curso": 19
     }
   },
@@ -2623,7 +2623,7 @@
     "pk": 110,
     "fields": {
       "orden": "2",
-      "contenido": "T\u00e9cnicas de Cultivo de Microorganismos.",
+      "contenido": "T\u00e9cnicas de Cultivo de Microorganismos",
       "curso": 19
     }
   },
@@ -2632,7 +2632,7 @@
     "pk": 111,
     "fields": {
       "orden": "3",
-      "contenido": "Microbiolog\u00eda Agr\u00edcola parte I.",
+      "contenido": "Microbiolog\u00eda Agr\u00edcola parte I",
       "curso": 19
     }
   },
@@ -2641,7 +2641,7 @@
     "pk": 112,
     "fields": {
       "orden": "4",
-      "contenido": "Microbiolog\u00eda Agr\u00edcola parte II.",
+      "contenido": "Microbiolog\u00eda Agr\u00edcola parte II",
       "curso": 19
     }
   },
@@ -2650,7 +2650,7 @@
     "pk": 113,
     "fields": {
       "orden": "5",
-      "contenido": "Microbiolog\u00eda Ambiental parte I.",
+      "contenido": "Microbiolog\u00eda Ambiental parte I",
       "curso": 19
     }
   },
@@ -2659,7 +2659,7 @@
     "pk": 114,
     "fields": {
       "orden": "6",
-      "contenido": "Microbiolog\u00eda Ambiental parte II.",
+      "contenido": "Microbiolog\u00eda Ambiental parte II",
       "curso": 19
     }
   },
@@ -2668,7 +2668,7 @@
     "pk": 115,
     "fields": {
       "orden": "1",
-      "contenido": "Entorno emprendedor.",
+      "contenido": "Entorno emprendedor",
       "curso": 20
     }
   },
@@ -2677,7 +2677,7 @@
     "pk": 116,
     "fields": {
       "orden": "2",
-      "contenido": "Emprendedor.",
+      "contenido": "Emprendedor",
       "curso": 20
     }
   },
@@ -2686,7 +2686,7 @@
     "pk": 117,
     "fields": {
       "orden": "3",
-      "contenido": "Diagn\u00f3stico del entorno.",
+      "contenido": "Diagn\u00f3stico del entorno",
       "curso": 20
     }
   },
@@ -2695,7 +2695,7 @@
     "pk": 118,
     "fields": {
       "orden": "4",
-      "contenido": "Innovaci\u00f3n.",
+      "contenido": "Innovaci\u00f3n",
       "curso": 20
     }
   },
@@ -2704,7 +2704,7 @@
     "pk": 119,
     "fields": {
       "orden": "5",
-      "contenido": "Ideas creativas e innovadoras.",
+      "contenido": "Ideas creativas e innovadoras",
       "curso": 20
     }
   },
@@ -2713,7 +2713,7 @@
     "pk": 120,
     "fields": {
       "orden": "6",
-      "contenido": "Selecci\u00f3n de ideas.",
+      "contenido": "Selecci\u00f3n de ideas",
       "curso": 20
     }
   },
@@ -2722,7 +2722,7 @@
     "pk": 121,
     "fields": {
       "orden": "1",
-      "contenido": "C\u00f3mo funciona la econom\u00eda.",
+      "contenido": "C\u00f3mo funciona la econom\u00eda",
       "curso": 21
     }
   },
@@ -2731,7 +2731,7 @@
     "pk": 122,
     "fields": {
       "orden": "2",
-      "contenido": "Modelos econ\u00f3micos: Flujo circular de la econom\u00eda.",
+      "contenido": "Modelos econ\u00f3micos: Flujo circular de la econom\u00eda",
       "curso": 21
     }
   },
@@ -2740,7 +2740,7 @@
     "pk": 123,
     "fields": {
       "orden": "3",
-      "contenido": "Las fuerzas del mercado: La demanda y oferta (parte I).",
+      "contenido": "Las fuerzas del mercado: La demanda y oferta (parte I)",
       "curso": 21
     }
   },
@@ -2749,7 +2749,7 @@
     "pk": 124,
     "fields": {
       "orden": "4",
-      "contenido": "Las fuerzas del mercado: La demanda y oferta (parteII).",
+      "contenido": "Las fuerzas del mercado: La demanda y oferta (parteII)",
       "curso": 21
     }
   },
@@ -2758,7 +2758,7 @@
     "pk": 125,
     "fields": {
       "orden": "5",
-      "contenido": "Econom\u00eda familiar: presupuesto familiar - gastos - ingresos - ahorro.",
+      "contenido": "Econom\u00eda familiar: presupuesto familiar - gastos - ingresos - ahorro",
       "curso": 21
     }
   },
@@ -2767,7 +2767,7 @@
     "pk": 126,
     "fields": {
       "orden": "6",
-      "contenido": "C\u00f3mo y porqu\u00e9 crece o decrece un pa\u00eds.",
+      "contenido": "C\u00f3mo y porqu\u00e9 crece o decrece un pa\u00eds",
       "curso": 21
     }
   },
@@ -2776,7 +2776,7 @@
     "pk": 127,
     "fields": {
       "orden": "1",
-      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 1).",
+      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 1)",
       "curso": 22
     }
   },
@@ -2785,7 +2785,7 @@
     "pk": 128,
     "fields": {
       "orden": "2",
-      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 2).",
+      "contenido": "Preparaci\u00f3n de fuentes de informaci\u00f3n primaria (parte 2)",
       "curso": 22
     }
   },
@@ -2794,7 +2794,7 @@
     "pk": 129,
     "fields": {
       "orden": "3",
-      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 1).",
+      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 1)",
       "curso": 22
     }
   },
@@ -2803,7 +2803,7 @@
     "pk": 130,
     "fields": {
       "orden": "4",
-      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 2).",
+      "contenido": "M\u00e9todos y tipos de muestreo y calculo de la muestra (parte 2)",
       "curso": 22
     }
   },
@@ -2830,7 +2830,7 @@
     "pk": 133,
     "fields": {
       "orden": "1",
-      "contenido": "El origen del hombre: creaci\u00f3n y evoluci\u00f3n.",
+      "contenido": "El origen del hombre: creaci\u00f3n y evoluci\u00f3n",
       "curso": 23
     }
   },
@@ -2839,7 +2839,7 @@
     "pk": 134,
     "fields": {
       "orden": "2",
-      "contenido": "El hombre es m\u00e1s que cuerpo y m\u00e1s que psique.",
+      "contenido": "El hombre es m\u00e1s que cuerpo y m\u00e1s que psique",
       "curso": 23
     }
   },
@@ -2848,7 +2848,7 @@
     "pk": 135,
     "fields": {
       "orden": "3",
-      "contenido": "La interioridad humana: la persona.",
+      "contenido": "La interioridad humana: la persona",
       "curso": 23
     }
   },
@@ -2857,7 +2857,7 @@
     "pk": 136,
     "fields": {
       "orden": "4",
-      "contenido": "La libertad.",
+      "contenido": "La libertad",
       "curso": 23
     }
   },
@@ -2866,7 +2866,7 @@
     "pk": 137,
     "fields": {
       "orden": "5",
-      "contenido": "El dolor y la muerte. La vida y su sentido: la plenitud humana.",
+      "contenido": "El dolor y la muerte. La vida y su sentido: la plenitud humana",
       "curso": 23
     }
   },
@@ -2875,7 +2875,7 @@
     "pk": 138,
     "fields": {
       "orden": "6",
-      "contenido": "El humanismo de Cristo.",
+      "contenido": "El humanismo de Cristo",
       "curso": 23
     }
   },
@@ -2884,7 +2884,7 @@
     "pk": 139,
     "fields": {
       "orden": "7",
-      "contenido": "Principios de una buena gr\u00e1fica.",
+      "contenido": "Principios de una buena gr\u00e1fica",
       "curso": 1
     }
   }

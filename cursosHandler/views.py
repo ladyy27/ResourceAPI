@@ -15,6 +15,8 @@ def listar_cursos(request):
     """
     if request.method == 'GET':
         resp = Cursos.objects.values("nombre").all()
+        for curso in resp:
+            curso["nombre"] = curso["nombre"].capitalize()
         return Response(resp, status=status.HTTP_200_OK)
 
 
