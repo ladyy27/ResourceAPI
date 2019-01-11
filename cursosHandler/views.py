@@ -11,7 +11,7 @@ def listar_cursos(request):
     """
     Listar todos los cursos
     :param request:
-    :return: EL nombre de los cursos
+    :return: El nombre de los cursos
     """
     if request.method == 'GET':
         resp = Cursos.objects.values("nombre").all()
