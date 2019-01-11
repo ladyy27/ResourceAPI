@@ -35,7 +35,11 @@ class CreditsComponent1(APIView):
         print(code)
         creditsquery = Planes.objects.values('o').filter(p='creditos', s=code)
         print(creditsquery)
-        return Response(creditsquery)
+        if len(creditsquery)> 0:
+            return Response(creditsquery,status=status.HTTP_200_OK)
+        else:
+            data =[{'o': 'No encuentro esta materia'}]
+            return Response(data ,status=status.HTTP_400_BAD_REQUEST)
 
 
 class CreditsComponent(APIView):
@@ -59,51 +63,69 @@ class TitulacionComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
         print(code)
-        creditsquery = Planes.objects.values('o').filter(p='responsable', s=code)
-        print(creditsquery)
-        return Response(creditsquery)
-
+        titulacionquery = Planes.objects.values('o').filter(p='responsable', s=code)
+        print(titulacionquery)
+        if len(titulacionquery) > 0:
+            return Response(titulacionquery, status=status.HTTP_200_OK)
+        else:
+            data = [{'o': 'No encuentro esta materia'}]
+            return Response(data, status=status.HTTP_400_BAD_REQUEST)
 
 class TipoComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
         print(code)
-        creditsquery = Planes.objects.values('o').filter(p='grupo_creditos', s=code)
-        print(creditsquery)
-        return Response(creditsquery)
+        tipoquery = Planes.objects.values('o').filter(p='grupo_creditos', s=code)
+        print(tipoquery)
+        if len(tipoquery) > 0:
+            return Response(tipoquery, status= status.HTTP_200_OK)
+        else:
+            data = [{'o': 'No encuentro esta materia'}]
+            return Response(data, status=status.HTTP_400_BAD_REQUEST)
 
 
 class SeccionComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
         print(code)
-        creditsquery = Planes.objects.values('o').filter(p='seccion', s=code)
-        print(creditsquery)
-        return Response(creditsquery)
+        seccionquery = Planes.objects.values('o').filter(p='seccion', s=code)
+        print(seccionquery)
+        if len(seccionquery) > 0:
+            return Response(seccionquery, status=status.HTTP_200_OK)
+        else:
+            data = [{'o': 'No encuentro esta materia'}]
+            return Response(data, status=status.HTTP_400_BAD_REQUEST)
 
 
 class DepartamentoComponent(APIView):
     def get(self, request, component):
         code = getCode(component)
         print(code)
-        creditsquery = Planes.objects.values('o').filter(p='departamento', s=code)
-        print(creditsquery)
-        return Response(creditsquery)
-
+        departamentoquery = Planes.objects.values('o').filter(p='departamento', s=code)
+        print(departamentoquery)
+        if len(departamentoquery) > 0:
+            return Response(departamentoquery, status=status.HTTP_200_OK)
+        else:
+            data = [{'o': 'No encuentro esta materia'}]
+            return Response(data, status=status.HTTP_400_BAD_REQUEST)
 
 class PeriodoComponent(APIView):
     def get(self, request, component):
         data = []
         code = getCode(component)
         print(code)
-        creditsquery = Planes.objects.values('o').filter(p='periodo', s=code)
-        cad = str(creditsquery[0]['o'])
+        periodoquery = Planes.objects.values('o').filter(p='periodo', s=code)
+        cad = str(periodoquery[0]['o'])
         if cad.find("Oct"):
             data.append({'o': 'Ciclo impar: Octubre/Febrero'})
         else:
             data.append({'o': 'Ciclo par: Abril/Agosto'})
-        return Response(data)
 
+        if len(data) > 0:
+            return Response(data, status=status.HTTP_200_OK)
+        else:
+            data = [{'o': 'No encuentro esta materia'}]
+            return Response(data, status=status.HTTP_400_BAD_REQUEST)
 
 class SubjectsListByRelatedWords(APIView):
     def get(self, request, component):
