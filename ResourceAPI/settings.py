@@ -77,8 +77,8 @@ WSGI_APPLICATION = 'ResourceAPI.wsgi.application'
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 
-with open('ResourceAPI/multidb.json') as f:
-    data = json.load(f)
+# with open('ResourceAPI/multidb.json') as f:
+#     data = json.load(f)
 
 # print (data)
 

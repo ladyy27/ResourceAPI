@@ -41,6 +41,26 @@ def duracion_curso(request):
 
 
 @api_view(['GET'])
+def fechas_curso(request):
+    """
+    Duracion del curso
+    :param request: nombre del curso
+    :return: Duracion del curso
+    """
+    if request.method == 'GET':
+        serializer = CursosSerializer(data=request.data)
+        if serializer.is_valid():
+            query = Cursos.objects.values("nombre", "fecha_inscripcion", "fecha_inicio").get(
+                nombre__contains=serializer.validated_data["curso"].upper())
+            if len(query) == 0:
+                return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
+            else:
+                query["nombre"] = query["nombre"].capitalize()
+                return Response(query, status=status.HTTP_200_OK)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+@api_view(['GET'])
 def temas_curso(request):
     """
     Contenidos del curso
@@ -56,9 +76,30 @@ def temas_curso(request):
             if len(query) == 0:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
-                query[0]["nombre"] = query[0]["nombre"].capitalize()
-                resp = {"nombre": query[0]["nombre"],
+                resp = {"nombre": query[0]["nombre"].capitalize(),
                         "contenidos": contenidos}
+                return Response(resp, status=status.HTTP_200_OK)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+@api_view(['GET'])
+def competencias_curso(request):
+    """
+    Contenidos del curso
+    :param request: nombre del curso
+    :return: Contenidos del curso ordenados
+    """
+    if request.method == 'GET':
+        serializer = CursosSerializer(data=request.data)
+        if serializer.is_valid():
+            query = Cursos.objects.values("nombre", "competencias__competencia").filter(
+                nombre__contains=serializer.validated_data["curso"].upper())
+            competencias = list(map(lambda x: x["competencias__competencia"], query))
+            if len(query) == 0:
+                return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
+            else:
+                resp = {"nombre": query[0]["nombre"].capitalize(),
+                        "competencias": competencias}
                 return Response(resp, status=status.HTTP_200_OK)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
