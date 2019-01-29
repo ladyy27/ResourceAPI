@@ -29,6 +29,7 @@ def duracion_curso(request):
     """
     if request.method == 'GET':
         serializer = CursosSerializer(data=request.data)
+        print(serializer)
         if serializer.is_valid():
             query = Cursos.objects.values("nombre", "duracion", "esfuerzo_estimado").get(
                 nombre__contains=serializer.validated_data["curso"].upper())
