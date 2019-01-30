@@ -5,10 +5,12 @@ from rest_framework import status, generics
 from .serializers import *
 from django.db.models import Q
 
+
 # Create your views here.
 class TiposList(generics.ListCreateAPIView):
     queryset = Tipos.objects.filter(~Q(castellano__startswith='Expresiones')).order_by('castellano')
     serializer_class = TiposSerializer
+
 
 class GetType(generics.ListAPIView):
     serializer_class = TiposSerializer
@@ -20,6 +22,7 @@ class GetType(generics.ListAPIView):
         """
         idtipo = self.kwargs['id']
         return Tipos.objects.filter(id=idtipo)
+
 
 class ExpresionesList(generics.ListCreateAPIView):
     queryset = Tipos.objects.filter(castellano__startswith='Expresiones')
@@ -36,6 +39,7 @@ class WordsKichwasByCategory(generics.ListAPIView):
         """
         idcategory = self.kwargs['id']
         return Expresiones.objects.filter(tipo=idcategory)
+
 
 class TranslateFromEnglish(generics.ListAPIView):
     serializer_class = MultilenguajeSerializer
@@ -91,11 +95,12 @@ class TranslateFromEspanish(generics.ListAPIView):
                 if len(query) >= 1:
                     return query
                 else:
-                    #quering in other table
+                    # quering in other table
                     return KichwaCastellano.objects.filter(castellano__icontains=word)[:3]
         else:
             query = CastellanoKichwa.objects.filter(castellano=word)
         return query
+
 
 class QueryInMultilenguaje(generics.ListAPIView):
     serializer_class = MultilenguajeSerializer

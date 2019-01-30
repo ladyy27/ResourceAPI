@@ -17,13 +17,11 @@ from django.conf.urls import include, url
 from django.contrib import admin
 from django.urls import path, re_path, include
 
-
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('curricula/' , include('RESTAPI.urls')),
-    path('cursos/' , include('cursosHandler.urls')),
-    path('api-auth/',include('rest_framework.urls', namespace='rest_framework')),
-    re_path('kichwakb/translate/', include('kichwa.urls'))
-
+    path('curricula/', include('RESTAPI.urls')),
+    path('cursos/', include('cursosHandler.urls')),
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+    path('kichwakb/translate/', include('kichwa.urls'))
 
 ]

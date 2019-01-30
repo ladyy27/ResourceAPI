@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 import os
 import json
 from decouple import config, Csv
-#import dj_database_url
+import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'RESTAPI.apps.RestapiConfig',
     'rest_framework',
     'cursosHandler.apps.CursoshandlerConfig',
-    'kichwa'
+    'kichwa.apps.KichwaConfig'
 ]
 
 MIDDLEWARE = [
@@ -72,33 +72,14 @@ TEMPLATES = [
     },
 ]
 
-
 WSGI_APPLICATION = 'ResourceAPI.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
-
-# with open('ResourceAPI/multidb.json') as f:
-#     data = json.load(f)
-
-# print (data)
-
-# DATABASES = data
-
-
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'botkwdb',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST':'',
-        'PORT':'',
-        'OPTIONS': {
-           'init_command': 'SET default_storage_engine=MyISAM',
-        },
-    }
+    'default': dj_database_url.config(
+        default=config('DATABASE_URL'))
 }
 
 # Password validation
