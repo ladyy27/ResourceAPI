@@ -7,6 +7,7 @@ This app supports the connection to multiple databases. Every database configura
 # Actual supported API's
 * OpenCampus
 * Curricula
+* Kichwa
 
 # TODO
 * Añadir los datos de carga para curricula, DONE
