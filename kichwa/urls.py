@@ -3,7 +3,6 @@ from django.conf.urls import url
 from rest_framework.urlpatterns import format_suffix_patterns
 from kichwa import views
 
-
 urlpatterns = [
     path('typesexpressions/', views.TiposList.as_view()),
     path('expressions/', views.ExpresionesList.as_view()),

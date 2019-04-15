@@ -31,9 +31,10 @@ def duracion_curso(request):
         serializer = CursosSerializer(data=request.data)
         print(serializer)
         if serializer.is_valid():
-            query = Cursos.objects.values("nombre", "duracion", "esfuerzo_estimado").get(
-                nombre__contains=serializer.validated_data["curso"].upper())
-            if len(query) == 0:
+            try:
+                query = Cursos.objects.values("nombre", "duracion", "esfuerzo_estimado").get(
+                    nombre__contains=serializer.validated_data["curso"].upper())
+            except Cursos.DoesNotExist:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
                 query["nombre"] = query["nombre"].capitalize()
@@ -51,9 +52,10 @@ def fechas_curso(request):
     if request.method == 'GET':
         serializer = CursosSerializer(data=request.data)
         if serializer.is_valid():
-            query = Cursos.objects.values("nombre", "fecha_inscripcion", "fecha_inicio").get(
-                nombre__contains=serializer.validated_data["curso"].upper())
-            if len(query) == 0:
+            try:
+                query = Cursos.objects.values("nombre", "fecha_inscripcion", "fecha_inicio").get(
+                    nombre__contains=serializer.validated_data["curso"].upper())
+            except Cursos.DoesNotExist:
                 return Response({"error": "Curso no encontrado"}, status=status.HTTP_404_NOT_FOUND)
             else:
                 query["nombre"] = query["nombre"].capitalize()
